@@ -1,0 +1,29 @@
+Participant	Gender	Age	Highest Education	Occupation	Year interviewed	
+P11	F	20-29	Secondary school	Bar staff/server	2002	
+P24	F	20-29	Diploma/certificate	Student/receptionist	2010	
+P13	F	20-29	Diploma/certificate	Employment advisor	2002	
+P14	F	20-29	Bachelor's degree	Youth worker	2002	
+P20	F	20-29	Bachelor's degree	Operations coordinator	2007	
+P10	F	20-29	Secondary school	Student	2000	
+P22	F	20-29	Bachelor's degree	Human resources	2007	
+P15	F	20-29	Bachelor's degree	Administration assistant	2002	
+P17	M	20-29	Diploma/certificate	Web designer	2003	
+P02	F	30-39	Diploma/certificate	Project manager	1997	
+P04	F	30-39	Bachelor's degree	Unemployed	1997	
+P08	F	30-39	Postgraduate	Manager	2000	
+P18	F	30-39	Bachelor's degree	Nurse	2003	
+P23	F	30-39	Bachelor's degree	Various jobs	2007	
+P12	M	30-39	Bachelor's degree	Events manager	2002	
+P19	M	30-39	Postgraduate	Consultant	2007	
+P21	F	40-49	Diploma/certificate	Hotelier	2007	
+P05	F	40-49	Bachelor's degree	Manager	1997	
+P27	M	40-49	Postgraduate	Self-employed	2010	
+P26	M	40-49	Diploma/certificate	Recruiter	2010	
+P01	M	50-59	Bachelor's degree	Production coordinator	1997	
+P25	M	50-59	Bachelor's degree	Not given	2010	
+P07	M	50-59	Diploma/certificate	Video producer	2000	
+P09	F	60+	Bachelor's degree	Health advisor	2000	
+P03	M	60+	Postgraduate	Retired	1997	
+P16	M	60+	Bachelor's degree	Retired commercial manager	2002	
+P28	M	60+	Bachelor's degree	Retired builder	2010	
+P06	F	60+	Bachelor's degree	Retired principal	2000	
