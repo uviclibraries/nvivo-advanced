@@ -12,14 +12,14 @@ If you have NVivo-specific questions, they might be addressed in the Quick Guide
 
 ### A) Creating a project and navigating the workspace
 
-1.  Open NVivo and select “Blank Project”.
-2.  In the “New Project” dialogue box that opens, enter a title for your project “Public Understanding of Climate Change”.
-3.  Next to the File name field, select where to save your project file with “Browse…”.
-4.  Check the box next to “Write user actions to project event log” (this will keep track of your methodology and retrace your steps later on). Click OK when finished.
+1.  Open NVivo and select **“Blank Project”**.
+2.  In the **“New Project”** dialogue box that opens, enter a title for your project **“Public Understanding of Climate Change”**.
+3.  Next to the File name field, select where to save your project file with **“Browse…”**.
+4.  Check the box next to **Write user actions to project event log** (this will keep track of your methodology and retrace your steps later on). Click **OK** when finished.
 
 ### B) Importing Nodes
 
-A node is a collection of references about a specific theme, case or relationship. You gather the references by 'coding' sources to a node. Since we covered this in Activity 1, this time we will be importing a hierarchy of nodes from a pre-coded file to save time.
+A node is a collection of references about a specific theme, case or relationship. You gather the references by 'coding' sources to a node. Since we covered this in our [introductory NVivo workshop](https://uviclibraries.github.io/nvivo/){:target="_blank"}, this time we will be importing a hierarchy of nodes from a pre-coded file to save time.
 
 1.  Select the Import tab on the top ribbon, and then select project.
 2.  Navigate to the Activity 2 Sources folder you saved locally to your desktop. Select Activity 2 - Climate Change Focus Group Coding.nvp and click Open.
@@ -31,11 +31,11 @@ A node is a collection of references about a specific theme, case or relationshi
 
 In NVivo, you can create case nodes to represent different units of analysis, including interview subjects, documents, organizations, places, or any other entity you want to compare and analyze.
 
-Case Classification vs. File Classification:
--   Case classifications store attributes about your units of analysis (e.g. demographic information about interviewees, company information, etc.).
--   File classifications store attributes about your materials being analyzed (e.g. interview transcripts, newspaper articles, reports, etc.).
+**Case Classification vs. File Classification:**
+-   **Case classifications** store attributes about your units of analysis (e.g. demographic information about interviewees, company information, etc.).
+-   **File classifications** store attributes about your materials being analyzed (e.g. interview transcripts, newspaper articles, reports, etc.).
 
-Case Classifications: If you have gathered information about your case nodes outside of NVivo—and the information is in a structured text file or a spreadsheet—you can import it into NVivo by importing a classification sheet. For example, if you have cases representing people, and you have recorded demographic information about these people in a spreadsheet, then you can import this classification data. If you don’t have a spreadsheet you can also input this information manually - see instructions from NVivo.
+**Case Classifications:** If you have gathered information about your case nodes outside of NVivo—and the information is in a structured text file or a spreadsheet—you can import it into NVivo by importing a classification sheet. For example, if you have cases representing people, and you have recorded demographic information about these people in a spreadsheet, then you can import this classification data. If you don’t have a spreadsheet you can also input this information manually - see instructions from NVivo.
 
 1.  In the Top Ribbon Choose Classification Sheet under Import, this opens the Import Classification Sheets Wizard (4 steps).
 2.  Step 1 of 4: Click the Browse button, and then locate and select the text file or Excel workbook that contains the data you want to import. (Attribute matrix - Tracking public understanding of climate change over time.xlsx).
