@@ -52,4 +52,4 @@ Codebook: From navigation pane, right-click "Nodes", select "Export Codebook..."
 Extracts: From navigation pane, select "Output" -> "Extracts" to view options
 Project: Select "Share" tab, then "Export Project Data"
 
-asdf
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
