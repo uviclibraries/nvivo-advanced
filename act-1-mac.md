@@ -50,6 +50,8 @@ In NVivo, you can create case codes to represent different units of analysis, in
 2.  In the dialogue box that appears, select “Cases” and then the “P1” case. Click Select. Repeat these steps for all responses for each of the participants.
 3.  **Quick coding shortcut:** Using the lightbulb icon or the Command / shortcut can be a quick way to code text. Select the text in your file you wish to code, then click the lightbulb of Command / In “Existing”, type the name of the Case (as you start typing, name of nodes will start to show up), and then click enter on your keyboard.
 
+    <img src="images/mac-act/D.png" alt="quick coding shortcut" style="width:720px;">
+
 ### E) Crosstab query
 
 1.  Cross-tab queries allow you to explore your coding across Cases and Attributes. Let’s explore the distribution of theme nodes across our Participants (Cases).
@@ -58,6 +60,9 @@ In NVivo, you can create case codes to represent different units of analysis, in
     -   Display the codes in the list view and drag all of the codes under the “Feelings" category into the Codes field.
     -   Set Classification to “Participants” and Attribute 1 to “Gender”.
     -   Click Run Query.
+
+    <img src="images/mac-act/E.png" alt="crosstab results" style="width:720px;">
+
 3.  By default, the crosstab results display the number of cases each node has been attributed two per attribute.
 4.  You can customize the analysis and colour coding scheme using options in the menu when you right click on the table or by clicking on the Results tab in the detail pane. You can also switch the results to display number of coding references or presence/absence, and switch cell values from counts to percentages.
 5.  Play around with other combinations of codes and attributes. Identify any interesting patterns.
@@ -72,7 +77,12 @@ Visualizations in NVivo for Mac are fairly limited. It is not possible to visual
     -   In List View, select the file or code you want to chart. On the Explore tab, in the Visualizations group, click the Chart image.
     -   The chart is generated and displayed in Detail View.
     -   You can use the chart options panel (on the right) to change the data displayed in the chart, or to change the chart's format and appearance.
+
+    <img src="images/mac-act/F.png" alt="chart visualization" style="width:720px;">
+
 2.  **Hierarchy Charts:** help you visualize a hierarchy, helping you to see patterns in your coding or view the attribute values of cases and files. Create a hierarchy chart by clicking Hierarchy Chart in the Visualizations group on the Explore tab.
+
+    <img src="images/mac-act/F2.png" alt="hierarchy chart" style="width:720px;">
 
 ### G) Exporting materials
 
