@@ -19,7 +19,7 @@ If you have NVivo-specific questions, they might be addressed in the Quick Guide
 
 ### B) Importing Codes
 
-A code is a collection of references about a specific theme, case or relationship. You gather the references by 'coding' sources to a code. Since we covered this in Activity 1, this time we will be importing a hierarchy of codes from a pre-coded file to save time.
+A code is a collection of references about a specific theme, case or relationship. You gather the references by 'coding' sources to a code. Since we covered this in our [introductory NVivo workshop](https://uviclibraries.github.io/nvivo/){:target="_blank"}, this time we will be importing a hierarchy of codes from a pre-coded file to save time.
 
 1.  Select the Import tab on the top ribbon, and then select project
 2.  Navigate to the Activity 2 Sources folder you saved locally to your desktop. Select MAC - Public understanding of climate change.nvpx and click Import.
