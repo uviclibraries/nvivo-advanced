@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Quick Guide
+title: 2-Quick Guide
 nav_order: 4
 parent: Workshop Activities
 ---
