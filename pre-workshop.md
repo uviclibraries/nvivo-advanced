@@ -11,7 +11,7 @@ This workshop is primarily hands-on practice with NVivo in order to learn to use
 -   [Install NVivo](http://bit.ly/2WOOD3m){:target="_blank"} (**select the free 2-week trial option during installation**) (2 min)
 -   Download workshop files (<1 min):
     -   **Windows Files:**
-        -   <a href="resources/WINDOWS - Attribute matrix - Tracking Public Understanding of Climate Change Over Time .xlsx" download"windows_attribute_matrix">Attribute Matrix</a>
+        -   <a href="resources/WINDOWS - Attribute matrix - Tracking Public Understanding of Climate Change Over Time .xlsx" download="windows_attribute_matrix">Attribute Matrix</a>
         -   <a href="resources/WINDOWS - Public understanding of climate change - nodes.nvp" download="windows_nodes">Nodes</a>
     -   **Mac Files:**
         -   <a href="resources/MAC - Attribute matrix - Tracking Public Understanding of Climate Change Over Time_.txt" download="mac_attribute_matrix">Attribute Matrix</a>
