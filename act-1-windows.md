@@ -7,4 +7,4 @@ parent: Workshop Activities
 
 # Windows
 
-a
+[NEXT STEP: Quick Guide](tips.html){: .btn .btn-blue }
