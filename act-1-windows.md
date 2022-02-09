@@ -50,6 +50,8 @@ In NVivo, you can create case nodes to represent different units of analysis, in
 1.  Code the interview file according to the new case nodes. For example, open the file from the Navigation Pane and highlight the first response by P1. Right click and select Code… In the dialogue box that appears, select “Cases” and then the “P1” case. Click OK. Repeat these steps for all responses for each of the participants.
 2.  **Quick coding bar:** The coding bar at the bottom of the workspace can be a quick way to code text. Select the text in your file you wish to code, then on the quick coding bar, select “In Cases”. In “Code At”, type the name of the Case (as you start typing, name of nodes will start to show up), and then click enter on your keyboard.
 
+    <img src="images/windows-act/D.png" alt="quick coding bar" style="width:720px;">
+
 ### E) Crosstab query
 
 1.  Cross-tab queries allow you to explore your coding across Cases and Attributes. Let’s explore the distribution of theme nodes across our Participants (Cases).
@@ -58,6 +60,9 @@ In NVivo, you can create case nodes to represent different units of analysis, in
     -   Display the nodes in the list view and drag all of the nodes under the “Feelings" category into the Codes field.
     -   Set Classification to “Participant” and Attribute 1 to “Gender”.
     -   Click Run Query.
+
+    <img src="images/windows-act/E.png" alt="crosstab results" style="width:720px;">
+
 3.  By default, the crosstab results display the number of cases each node has been attributed two per attribute.
 4.  You can customize the analysis and colour coding scheme using options in the top ribbon. You can also switch the results to display number of coding references or presence/absence, and switch cell values from counts to percentages.
 5.  Play around with other combinations of codes and attributes. Identify any interesting patterns.
@@ -67,8 +72,16 @@ In NVivo, you can create case nodes to represent different units of analysis, in
 ### F) Creating Visualizations
 
 1.  **Visualizing Query Results:** NVivo automatically creates visualizations for Queries. Re-open your Feelings x Gender Crosstab  Query. On the right-side of the results summary, click the “Chart” tab.. By default, NVivo will create a 3D chart visualization to represent your results. This can be changed or customized using the Chart tools displayed on the Top Ribbon.
+
+    <img src="images/windows-act/F.png" alt="chart visualizations" style="width:720px;">
+
 2.  **Custom charts - Timelines:** To build a custom Chart to visualize your data, under the Explore tab, click the Chart icon. In the Chart Wizard that appears, for Step 1, create a Coding chart. For Step 2, select “Coding by case attribute for multiple codes”. For Step 3, select all Nodes under the “Potential Solutions > Individual Actions” category. Set the X-axis attribute to the “Year Interviewed” case attribute and display “All attribute values except ‘Unassigned’, ‘Not Applicable’. For the Y-axis, select “Number of coding references”.
+
+    <img src="images/windows-act/F2.png" alt="custom charts" style="width:720px;">
+
 3.  **Cluster Analysis of Cases:** To compare the similarity of the cases, try running a cluster analysis. On the Top Ribbon, click then Explore tab, then click the Cluster Analysis icon. A dialogue box for the Cluster Analysis Wizard should appear. Click the “Codes” option then click Next. Select all Cases as nodes to analyze, and cluster them by “Coding similarity”. Click OK to run.  On the top ribbon you can change the plot type and modify the number of clusters.
+
+    <img src="images/windows-act/F3.png" alt="cluster analysis" style="width:720px;">
 
 ### G) Exporting materials
 
