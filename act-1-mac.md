@@ -29,11 +29,11 @@ A code is a collection of references about a specific theme, case or relationshi
 
 In NVivo, you can create case codes to represent different units of analysis, including interview subjects, documents, organizations, places, or any other entity you want to compare and analyze.
 
-Case Classification vs. File Classification
--   Case classifications store attributes about your units of analysis (e.g. demographic information about interviewees, company information, etc.).
--   File classifications store attributes about your materials being analyzed (e.g. interview transcripts, newspaper articles, reports, etc.).
+**Case Classification vs. File Classification**
+-   **Case classifications** store attributes about your units of analysis (e.g. demographic information about interviewees, company information, etc.).
+-   **File classifications** store attributes about your materials being analyzed (e.g. interview transcripts, newspaper articles, reports, etc.).
 
-Case Classifications: If you have gathered information about your case nodes outside of NVivo—and the information is in a structured text file or a spreadsheet—you can import it into NVivo by importing a classification sheet. For example, if you have cases representing people, and you have recorded demographic information about these people in a spreadsheet, then you can import this classification data. If you don’t have a spreadsheet you can also input this information manually - see instructions from NVivo.
+**Case Classifications:** If you have gathered information about your case nodes outside of NVivo—and the information is in a structured text file or a spreadsheet—you can import it into NVivo by importing a classification sheet. For example, if you have cases representing people, and you have recorded demographic information about these people in a spreadsheet, then you can import this classification data. If you don’t have a spreadsheet you can also input this information manually - see [instructions from NVivo](https://help-nv.qsrinternational.com/20/mac/Content/classifications/create-case-classifications.htm?Highlight=case%20classifications){:target="_blank"}.
 
 1.  In the Top Ribbon Choose Classifications under Import, and then Classification sheet.
 2.  Navigate to the text file that contains the data you want to import. (Attribute matrix - Tracking public understanding of climate change over time.txt
@@ -48,14 +48,14 @@ Case Classifications: If you have gathered information about your case nodes out
 
 1.  Code the interview file according to the new case codes. For example, open the file from the Navigation Pane and highlight the first response by P1. Right click and select Code Selection, to Existing Cases or codes.
 2.  In the dialogue box that appears, select “Cases” and then the “P1” case. Click Select. Repeat these steps for all responses for each of the participants.
-3.  Quick coding shortcut: Using the lightbulb icon or the Command / shortcut can be a quick way to code text. Select the text in your file you wish to code, then click the lightbulb of Command / In “Existing”, type the name of the Case (as you start typing, name of nodes will start to show up), and then click enter on your keyboard.
+3.  **Quick coding shortcut:** Using the lightbulb icon or the Command / shortcut can be a quick way to code text. Select the text in your file you wish to code, then click the lightbulb of Command / In “Existing”, type the name of the Case (as you start typing, name of nodes will start to show up), and then click enter on your keyboard.
 
 ### E) Crosstab query
 
 1.  Cross-tab queries allow you to explore your coding across Cases and Attributes. Let’s explore the distribution of theme nodes across our Participants (Cases).
-2.  Feelings x Gender: On the top ribbon, under the Explore tab, click the Queries icon, and then Crosstab. In the Crosstab Criteria form that appears, enter the following criteria:
+2.  **Feelings x Gender:** On the top ribbon, under the Explore tab, click the Queries icon, and then Crosstab. In the Crosstab Criteria form that appears, enter the following criteria:
     -   Show codes against “Attributes”
-    -   Display the codes in the list view and drag the all of the codes under the “Feelings" category into the Codes field.
+    -   Display the codes in the list view and drag all of the codes under the “Feelings" category into the Codes field.
     -   Set Classification to “Participants” and Attribute 1 to “Gender”.
     -   Click Run Query.
 3.  By default, the crosstab results display the number of cases each node has been attributed two per attribute.
@@ -68,16 +68,16 @@ Case Classifications: If you have gathered information about your case nodes out
 
 Visualizations in NVivo for Mac are fairly limited. It is not possible to visualize query results or perform a cluster analysis. Charting is available but offers less options than Windows.
 
-1.  Charts: You can use charts to visualize Coding for a file, Coding for a code, or Coding by attribute value for a code.
+1.  **Charts:** You can use charts to visualize Coding for a file, Coding for a code, or Coding by attribute value for a code.
     -   In List View, select the file or code you want to chart. On the Explore tab, in the Visualizations group, click the Chart image.
     -   The chart is generated and displayed in Detail View.
     -   You can use the chart options panel (on the right) to change the data displayed in the chart, or to change the chart's format and appearance.
-2.  Hierarchy Charts: help you visualize a hierarchy, helping you to see patterns in your coding or view the attribute values of cases and files. Create a hierarchy chart by clicking Hierarchy Chart in the Visualizations group on the Explore tab.
+2.  **Hierarchy Charts:** help you visualize a hierarchy, helping you to see patterns in your coding or view the attribute values of cases and files. Create a hierarchy chart by clicking Hierarchy Chart in the Visualizations group on the Explore tab.
 
 ### G) Exporting materials
 
-1.  Project export: In the top ribbon, under Share, click the Export Project icon. In the dialogue box that appears, you can browse to select where to save the file.
-2.  Individual item export: You can also export the codebook and other content generated in NVivo as individual files. In the top ribbon, under Share, click the Export icon and select Export Codebook. In the dialogue box that appears, select codes, then you can browse to select where to save the file. You can choose to save the file as either in MS Word format (*.docx) or MS Excel (*.xlsx).
+1.  **Project export:** In the top ribbon, under Share, click the Export Project icon. In the dialogue box that appears, you can browse to select where to save the file.
+2.  **Individual item export:** You can also export the codebook and other content generated in NVivo as individual files. In the top ribbon, under Share, click the Export icon and select Export Codebook. In the dialogue box that appears, select codes, then you can browse to select where to save the file. You can choose to save the file as either in MS Word format (*.docx) or MS Excel (*.xlsx).
 
 ### H) Saving your workspace
 
