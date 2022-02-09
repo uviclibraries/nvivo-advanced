@@ -48,14 +48,14 @@ In NVivo, you can create case nodes to represent different units of analysis, in
 ### D) Applying Case Nodes
 
 1.  Code the interview file according to the new case nodes. For example, open the file from the Navigation Pane and highlight the first response by P1. Right click and select Code… In the dialogue box that appears, select “Cases” and then the “P1” case. Click OK. Repeat these steps for all responses for each of the participants.
-2.  Quick coding bar  The coding bar at the bottom of the workspace can be a quick way to code text. Select the text in your file you wish to code, then on the quick coding bar, select “In Cases”. In “Code At”, type the name of the Case (as you start typing, name of nodes will start to show up), and then click enter on your keyboard.
+2.  **Quick coding bar:** The coding bar at the bottom of the workspace can be a quick way to code text. Select the text in your file you wish to code, then on the quick coding bar, select “In Cases”. In “Code At”, type the name of the Case (as you start typing, name of nodes will start to show up), and then click enter on your keyboard.
 
 ### E) Crosstab query
 
 1.  Cross-tab queries allow you to explore your coding across Cases and Attributes. Let’s explore the distribution of theme nodes across our Participants (Cases).
-2.  Feelings x Gender: On the top ribbon, under the Explore tab, click the Crosstab icon. In the Crosstab Criteria form that appears, enter the following criteria:
+2.  **Feelings x Gender:** On the top ribbon, under the Explore tab, click the Crosstab icon. In the Crosstab Criteria form that appears, enter the following criteria:
     -   Crosstab codes against “Attributes”
-    -   Display the nodes in the list view and drag the all of the nodes under the “Feelings" category into the Codes field.
+    -   Display the nodes in the list view and drag all of the nodes under the “Feelings" category into the Codes field.
     -   Set Classification to “Participant” and Attribute 1 to “Gender”.
     -   Click Run Query.
 3.  By default, the crosstab results display the number of cases each node has been attributed two per attribute.
@@ -66,16 +66,16 @@ In NVivo, you can create case nodes to represent different units of analysis, in
 
 ### F) Creating Visualizations
 
-1.  Visualizing Query Results: NVivo automatically creates visualizations for Queries. Re-open your Feelings x Gender Crosstab  Query. On the right-side of the results summary, click the “Chart” tab.. By default, NVivo will create a 3D chart visualization to represent your results. This can be changed or customized using the Chart tools displayed on the Top Ribbon.
-2.  Custom charts - Timelines: To build a custom Chart to visualize your data, under the Explore tab, click the Chart icon. In the Chart Wizard that appears, for Step 1, create a Coding chart. For Step 2, select “Coding by case attribute for multiple codes”. For Step 3, select all Nodes under the “Potential Solutions > Individual Actions” category. Set the X-axis attribute to the “Year Interviewed” case attribute and display “All attribute values except ‘Unassigned’, ‘Not Applicable’. For the Y-axis, select “Number of coding references”.
-3.  Cluster Analysis of Cases: To compare the similarity of the cases, try running a cluster analysis. On the Top Ribbon, click then Explore tab, then click the Cluster Analysis icon. A dialogue box for the Cluster Analysis Wizard should appear. Click the “Codes” option then click Next. Select all Cases as nodes to analyze, and cluster them by “Coding similarity”. Click OK to run.  On the top ribbon you can change the plot type and modify the number of clusters.
+1.  **Visualizing Query Results:** NVivo automatically creates visualizations for Queries. Re-open your Feelings x Gender Crosstab  Query. On the right-side of the results summary, click the “Chart” tab.. By default, NVivo will create a 3D chart visualization to represent your results. This can be changed or customized using the Chart tools displayed on the Top Ribbon.
+2.  **Custom charts - Timelines:** To build a custom Chart to visualize your data, under the Explore tab, click the Chart icon. In the Chart Wizard that appears, for Step 1, create a Coding chart. For Step 2, select “Coding by case attribute for multiple codes”. For Step 3, select all Nodes under the “Potential Solutions > Individual Actions” category. Set the X-axis attribute to the “Year Interviewed” case attribute and display “All attribute values except ‘Unassigned’, ‘Not Applicable’. For the Y-axis, select “Number of coding references”.
+3.  **Cluster Analysis of Cases:** To compare the similarity of the cases, try running a cluster analysis. On the Top Ribbon, click then Explore tab, then click the Cluster Analysis icon. A dialogue box for the Cluster Analysis Wizard should appear. Click the “Codes” option then click Next. Select all Cases as nodes to analyze, and cluster them by “Coding similarity”. Click OK to run.  On the top ribbon you can change the plot type and modify the number of clusters.
 
 ### G) Exporting materials
 
-1.  Reports and Extracts: NVivo automatically generates a series of reports to summarize your work. In the navigation pane, expand the Output heading. Two options should be listed: reports and extracts. Reports are meant to be read as documents, whereas extracts can be imported into spreadsheets.
+1.  **Reports and Extracts:** NVivo automatically generates a series of reports to summarize your work. In the navigation pane, expand the Output heading. Two options should be listed: reports and extracts. Reports are meant to be read as documents, whereas extracts can be imported into spreadsheets.
 2.  Click the Reports icon in the navigation pane. A series of reporting options should appear in the file list pane. Let’s create a report summarizing our coding scheme. Click “Coding Summary by Code Report”. In the Filter Options dialogue box that appears, click OK. In the detail pane, a document should open, which summarizes information on each of the codes in the hierarchy, and lists the coded text.
 3.  For comparison, click the Extracts icon in the navigation pane. Click “Coding Summary by Code Extract” in the file list pane. In the Filter Options dialogue box that appears, click OK. NVivo will ask you to save this document locally as a *.txt file. This file can now be opened by programs like Excel. Column structure is maintained by comma delineation.
-4.  Individual item export: You can also export the codebook and other content generated in NVivo as individual files. In the navigation pane, under Codes, right click Nodes and select Export Codebook. In the dialogue box that appears, you can browse to select where to save the file. You can choose to save the file as either in MS Word format (*.docx) or MS Excel (*.xlsx).
+4.  **Individual item export:** You can also export the codebook and other content generated in NVivo as individual files. In the navigation pane, under Codes, right click Nodes and select Export Codebook. In the dialogue box that appears, you can browse to select where to save the file. You can choose to save the file as either in MS Word format (*.docx) or MS Excel (*.xlsx).
 
 ### H) Saving your workspace
 
