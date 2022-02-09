@@ -21,7 +21,7 @@ This workshop is primarily hands-on practice with NVivo in order to learn to use
         -   <a href="resources/" download>Attribute Matrix</a>
         -   <a href="" download>Nodes</a>
     -   Mac Files
-        -   <a href="" download>Attribute Matrix</a>
+        -   <a href="resources/MAC - Attribute matrix - Tracking Public Understanding of Climate Change Over Time_.txt" download="mac_attribute_matrix">Attribute Matrix</a>
         -   <a href="" download>Nodes</a>
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
