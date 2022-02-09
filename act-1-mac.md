@@ -7,4 +7,4 @@ parent: Workshop Activities
 
 # Mac
 
-a
+[NEXT STEP: Quick Guide](tips.html){: .btn .btn-blue }
