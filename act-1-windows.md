@@ -95,4 +95,4 @@ In NVivo, you can create case nodes to represent different units of analysis, in
 1.  Your workspace is saved by NVivo as a *.nvp file. All of your files and outputs are saved as part of your workspace. To save click File above the top ribbon, then select save. If you need to copy your workspace to another location, click File and then select Copy Project.
 2.  To review your actions taken in the workshop click File above the top ribbon, then click Open Project Event Log.
 
-[NEXT STEP: Quick Guide](tips.html){: .btn .btn-blue }
+[NEXT STEP: Exploring Cases and Case Classifications](act-2-cases.html){: .btn .btn-blue }

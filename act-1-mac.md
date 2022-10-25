@@ -93,4 +93,4 @@ Visualizations in NVivo for Mac are fairly limited. It is not possible to visual
 
 1.  Your workspace is saved by NVivo as a *.nvpx file. All of your files and outputs are saved as part of your workspace. To save click File above the top ribbon, then select save. If you need to copy your workspace to another location, select Copy Project under the Explore tab.
 
-[NEXT STEP: Quick Guide](tips.html){: .btn .btn-blue }
+[NEXT STEP: Exploring Cases and Case Classifications](act-2-cases.html){: .btn .btn-blue }
