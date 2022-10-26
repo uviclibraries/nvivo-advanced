@@ -16,7 +16,7 @@ parent: Workshop Activities
 
     <img src="images/act-2/3.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
     
-<img src="images/act-2/4.png" alt="hierarchy chart" style="float:right;width:300px; margin-left:10px;">
+    <img src="images/act-2/4.png" alt="hierarchy chart" style="float:right;width:300px; margin-left:10px;">
 
 4.	Double click to create a new project. Once you do that you will see the following window and you will be able to name your project, choose a place in your computer to save it in, and add a name and description. We suggest that you name your project _biography analysis._ 
 
@@ -30,6 +30,7 @@ parent: Workshop Activities
     <img src="images/act-2/6-2.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
 7.	Name your folder **Biographies** (if you want you can add a description for your folder), and click **done.** It is smart to create folders for the files of each project you are working on. This is because you may have multiple NVivo databases for the same project, and we want to have our files properly organized on NVIVO workspace. 
+
     <img src="images/act-2/7.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
 
 8.	Now that we have set up our NVivo workspace, we will begin to import our files to our project. Below you will find a set of word document files. Please download all documents to your computer. 
@@ -37,6 +38,7 @@ parent: Workshop Activities
     [Link for documents](https://drive.google.com/drive/folders/1CAhi674fobzj0A9N2TTQ4ifPKHsABDXC?usp=sharing)
 
 9.	Once you have all the documents in your computer, import the files to your NVivo. Please keep in mind that this is the same procedure you use to import files in our Introduction to NVivo workshop. To import your files, select the folder you just created called BIOGRAPHIES, then go to the top ribbon and then click DATA -> DOCUMENTS. When a window open, choose the files from your computer and click IMPORT. The second image represents your files imported into Vivo.
+
     <img src="images/act-2/9-1.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/act-2/9-2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
@@ -71,20 +73,21 @@ parent: Workshop Activities
     -   **COUNTRY OF BIRTH**
     -   **RACE/ETHINICITY** (Indigenous, Afro-descent, Caucasian, Person of Color) 
 
-You can detail the attributes to match the ones we suggest above using the + and – in the bottom of the window that pops up:
+    You can detail the attributes to match the ones we suggest above using the + and – in the bottom of the window that pops up:
 
-<img src="images/act-2/15-1.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
+    <img src="images/act-2/15-1.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
 
-It will look like this on your NVivo UVic License:
+    It will look like this on your NVivo UVic License:
+
     <img src="images/act-2/15-2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 16.	Now that your classification sheet is ready, we need to link it to your cases, so we can gather further data from them. To do that, we will go back to **CASES-> SELECT ALL OUR FILES->RIGHT CLICK ON THEM->GO TO THE BOTTOM OF THE LIST ON CLASSIFICATION->CLICK ON “ATTRIBUTES FOR BIOGRAPHIES ANALYSIS”** as below, your NVivo will process the command and link each case to the attribute sheet you created:
 
-<img src="images/act-2/16-2b.png" alt="hierarchy chart" style="float:right;width:200px;">
-<img src="images/act-2/16-1.png" alt="hierarchy chart" style="width:440px; margin-left:10px;">
+    <img src="images/act-2/16-2b.png" alt="hierarchy chart" style="float:right;width:200px;">
+    <img src="images/act-2/16-1.png" alt="hierarchy chart" style="width:440px; margin-left:10px;">
 
 17.	Now go to the left pane on CASE CLASSIFICATION->DOUBLE CLICK IN YOUR “ATTRIBUTES FOR BIOGRAPHIES ANALYSIS” SHEET IN THE MIDDLE OF YOUR NVIVO INTERFACE->ON THE RIGHT SIDE OPEN YOUR CLASSIFICATION SHEET. You will see that your case classification sheet is created and all the attributes and attributes value are there. It will look like the image below:
-<img src="images/act-2/17-1.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/act-2/17-1.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 18.	**Let’s begin our analysis.** As you can see, below each attribute there is an unassigned value, you can now click on each of them and start attributing answer to each attribute. In order to do that, you will need to read through the files you imported, they are located in two places (under files and under cases). 
 
