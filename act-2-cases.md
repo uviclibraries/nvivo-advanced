@@ -37,7 +37,7 @@ parent: Workshop Activities
 
     [Link for documents](https://drive.google.com/drive/folders/1CAhi674fobzj0A9N2TTQ4ifPKHsABDXC?usp=sharing)
 
-9.	Once you have all the documents in your computer, import the files to your NVivo. Please keep in mind that this is the same procedure you use to import files in our Introduction to NVivo workshop. To import your files, select the folder you just created called BIOGRAPHIES, then go to the top ribbon and then click DATA -> DOCUMENTS. When a window open, choose the files from your computer and click IMPORT. The second image represents your files imported into Vivo.
+9.	Once you have all the documents in your computer, import the files to your NVivo. Please keep in mind that this is the same procedure you use to import files in our [introductory NVivo workshop](https://uviclibraries.github.io/nvivo/){:target="_blank"}. To import your files, select the folder you just created called BIOGRAPHIES, then go to the top ribbon and then click DATA -> DOCUMENTS. When a window open, choose the files from your computer and click IMPORT. The second image represents your files imported into Vivo.
 
     <img src="images/act-2/9-1.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/act-2/9-2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">

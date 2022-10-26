@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 
 # Group Interview Data: Tracking Public Understanding of Climate Change Over Time
-## Windows Version
+## Mac Version
 
 If you have NVivo-specific questions, they might be addressed in the Quick Guide section of this workshop. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Enjoy!
 
