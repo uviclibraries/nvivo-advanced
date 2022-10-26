@@ -64,7 +64,7 @@ parent: Workshop Activities
 
     <img src="images/act-2/14-1.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-15.	Create the following attributes to practice. Please note that you can add as many attributes as you want and as many **ATTRIBUTES PROPERTIES** as you wish.
+15.	Create the following attributes to practice. Please note that you can add as many attributes as you want and as many **ATTRIBUTE PROPERTIES** as you wish.
 
     -   **GENDER** (male, female, transgender male, transgender female, other)
     -   **INCOME LEVEL** (low, medium, high)
@@ -83,8 +83,9 @@ parent: Workshop Activities
 
 16.	Now that your classification sheet is ready, we need to link it to your cases, so we can gather further data from them. To do that, we will go back to **CASES-> SELECT ALL OUR FILES->RIGHT CLICK ON THEM->GO TO THE BOTTOM OF THE LIST ON CLASSIFICATION->CLICK ON “ATTRIBUTES FOR BIOGRAPHIES ANALYSIS”** as below, your NVivo will process the command and link each case to the attribute sheet you created:
 
-    <img src="images/act-2/16-2b.png" alt="hierarchy chart" style="float:right;width:200px;">
-    <img src="images/act-2/16-1.png" alt="hierarchy chart" style="width:440px; margin-left:10px;">
+    <img src="images/act-2/16-2b.png" alt="hierarchy chart" style="width:300px; margin-left:10px">
+
+    <img src="images/act-2/16-1.png" alt="hierarchy chart" style="width:540px; margin-left:10px;">
 
 17.	Now go to the left pane on CASE CLASSIFICATION->DOUBLE CLICK IN YOUR “ATTRIBUTES FOR BIOGRAPHIES ANALYSIS” SHEET IN THE MIDDLE OF YOUR NVIVO INTERFACE->ON THE RIGHT SIDE OPEN YOUR CLASSIFICATION SHEET. You will see that your case classification sheet is created and all the attributes and attributes value are there. It will look like the image below:
     <img src="images/act-2/17-1.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
@@ -122,7 +123,7 @@ parent: Workshop Activities
     Right click on the image and export the diagram to your computer. 
     <img src="images/act-2/23-3.png" alt="hierarchy chart" style="width:400px; margin-left:10px;">
 
-24.	**SAVING AND EXPORTING YOUR PROJECT.** On the top of your screen go to FILES, then click SAVE. Once you have saved your project, export it by clicking on the option EXPORT PROJECT. 
+24.	**SAVING AND EXPORTING YOUR PROJECT.** On the top of your screen go to **FILES,** then click **SAVE.** Once you have saved your project, export it by clicking on the option **EXPORT PROJECT.** 
 
 **Well done! You have now completed your advanced NVivo Workshop!**
 
