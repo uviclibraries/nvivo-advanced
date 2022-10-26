@@ -1,10 +1,4 @@
----
-layout: default
-title: 1b-Mac Activities
-nav_order: 3
-parent: Workshop Activities
----
-
+<!--archived-->
 # Group Interview Data: Tracking Public Understanding of Climate Change Over Time
 ## Mac Version
 

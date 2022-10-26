@@ -20,11 +20,9 @@ nav_order: 1
 
 At the end of this workshop, you will be able to:
 
-1.  Import Workspaces
-2.  Create Cases
+1.  Create Cases
 3.  Classify Cases
-4.  Perform Crosstab Queries
-5.  Create Visualizations
-6.  Export Materials
+4.  Create Visualizations
+5.  Export Materials
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }

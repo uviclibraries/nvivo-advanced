@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2-Cases and Case Classifications
-nav_order: 4
+title: 1-Cases and Case Classifications
+nav_order: 2
 parent: Workshop Activities
 ---
 
@@ -127,4 +127,4 @@ parent: Workshop Activities
 
 **Well done! You have now completed your advanced NVivo Workshop!**
 
-[NEXT STEP: Quick Guide](act-3-tips.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

@@ -1,3 +1,5 @@
+<!--archived
+
 ---
 layout: default
 title: 3-Quick Guide
@@ -53,3 +55,4 @@ From the "Explore" tab, select from the following options:
 **Project:** Select "Share" tab, then "Export Project Data"<br>
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+-->
