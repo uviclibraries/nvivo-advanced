@@ -1,9 +1,4 @@
----
-layout: default
-title: 1a-Windows Activities
-nav_order: 2
-parent: Workshop Activities
----
+<!--Archived
 
 # Group Interview Data: Tracking Public Understanding of Climate Change Over Time
 ## Windows Version
@@ -96,3 +91,4 @@ In NVivo, you can create case nodes to represent different units of analysis, in
 2.  To review your actions taken in the workshop click File above the top ribbon, then click Open Project Event Log.
 
 [NEXT STEP: Exploring Cases and Case Classifications](act-2-cases.html){: .btn .btn-blue }
+-->
