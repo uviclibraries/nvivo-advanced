@@ -29,8 +29,8 @@ parent: Workshop Activities
     <img src="images/act-2/6-1.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
     <img src="images/act-2/6-2.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
-7.	Name your folder Biographies and if you want you can also add a description for your folder like I did, and click done. It is smart to create folders for the files of each project you are working on. This is because it may come a time when we have multiple NVivo databases for the same project, and we want to have our files properly organized on NVIVO workspace. 
-    <img src="images/act-2/7.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+7.	Name your folder **Biographies** (if you want you can add a description for your folder), and click **done.** It is smart to create folders for the files of each project you are working on. This is because you may have multiple NVivo databases for the same project, and we want to have our files properly organized on NVIVO workspace. 
+    <img src="images/act-2/7.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
 
 8.	Now that we have set up our NVivo workspace, we will begin to import our files to our project. Below you will find a set of word document files. Please download all documents to your computer. 
 
