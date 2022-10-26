@@ -13,4 +13,4 @@ parent: Workshop Activities
 
 **CHOOSE YOUR NEXT STEP:**
 
-[ACTIVITY: Cases and Case Classification](act-2-cases.html){: .btn .btn-blue }
+[ACTIVITY: Cases and Case Classification](act-1-cases.html){: .btn .btn-blue }
