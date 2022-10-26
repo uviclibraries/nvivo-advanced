@@ -5,6 +5,14 @@
 
 If you have NVivo-specific questions, they might be addressed in the Quick Guide section of this workshop. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Enjoy!
 
+-   **Download workshop files** (<1 min):
+    -   **Windows Files:**
+        -   <a href="resources/WINDOWS - Attribute matrix - Tracking Public Understanding of Climate Change Over Time .xlsx" download="windows_attribute_matrix">Attribute Matrix</a>
+        -   <a href="resources/WINDOWS - Public understanding of climate change - nodes.nvp" download="windows_nodes">Nodes</a>
+    -   **Mac Files:**
+        -   <a href="resources/MAC - Attribute matrix - Tracking Public Understanding of Climate Change Over Time_.txt" download="mac_attribute_matrix">Attribute Matrix</a>
+        -   <a href="resources/MAC - Public understanding of climate change - nodes.nvpx" download="mac_nodes">Nodes</a> 
+
 ### A) Creating a project and navigating the workspace
 
 1.  Open NVivo and select **“Blank Project”**.
