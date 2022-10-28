@@ -87,7 +87,10 @@ parent: Workshop Activities
 
     <img src="images/act-2/16-1.png" alt="hierarchy chart" style="width:540px; margin-left:10px;">
 
-17.	Now go to the left pane on CASE CLASSIFICATION->DOUBLE CLICK IN YOUR “ATTRIBUTES FOR BIOGRAPHIES ANALYSIS” SHEET IN THE MIDDLE OF YOUR NVIVO INTERFACE->ON THE RIGHT SIDE OPEN YOUR CLASSIFICATION SHEET. You will see that your case classification sheet is created and all the attributes and attributes value are there. It will look like the image below:
+17.	Now go to the left pane on **CASE CLASSIFICATION->DOUBLE CLICK IN YOUR “ATTRIBUTES FOR BIOGRAPHIES ANALYSIS” SHEET IN THE MIDDLE OF YOUR NVIVO INTERFACE->ON THE RIGHT SIDE OPEN YOUR CLASSIFICATION SHEET.**
+
+    You will see that your case classification sheet is created and all the attributes and attributes value are there. It will look like the image below:
+
     <img src="images/act-2/17-1.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 18.	**Let’s begin our analysis.** As you can see, below each attribute there is an unassigned value, you can now click on each of them and start attributing answer to each attribute. In order to do that, you will need to read through the files you imported, they are located in two places (under files and under cases). 
@@ -99,7 +102,10 @@ parent: Workshop Activities
 
 19.	**Let’s explore our data.** Now it is time to play with our data and find out patterns, differences, and so on. Go to the main tab and click on **EXPLORE,** then select attribute values for cases and in the ox right next to it, choose a variable and click **>**
 
-    You should immediately see a **Treemap** with the occurrence of cases per country (in the case of mine). You can then add the other variables by selecting them and clicking > - take a moment to see what happens. You will notice that your Treemap is grouping all of them as you add more information. By exploring the countries, for instance, we can see that most of the cases were born in the UK.
+    You should immediately see a **Treemap** with the occurrence of cases per country (in the case of mine). You can then add the other variables by selecting them and clicking >. 
+    
+    Take a moment to see what happens. You will notice that your Treemap is grouping all of them as you add more information. By exploring the countries, for instance, we can see that most of the cases were born in the UK.
+
     <img src="images/act-2/19-1.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 20.	Now, keep exploring and click next to the Treemap where you read **Sunburst**
