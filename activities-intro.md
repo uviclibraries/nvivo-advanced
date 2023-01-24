@@ -8,8 +8,8 @@ parent: Workshop Activities
 
 - Please review the following [Introductory Slides](https://docs.google.com/presentation/d/1uCKD6YFe-ybNU3HUtvfaE2Dfi46gy1x85IOtU-n4jbk/){:target="_blank"}
 
-- Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Video: [Resize Your Laptop Screen for Workshop Handouts (2 min)](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"}
+
 
 **CHOOSE YOUR NEXT STEP:**
 
