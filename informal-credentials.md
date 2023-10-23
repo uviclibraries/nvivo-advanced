@@ -15,8 +15,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 
 ### Earn an Informal Credential or Badge for Advanced NVivo
 
-If you’d like to earn a DSC badge for this workshop, please email screenshots of the following to: [dscommons@uvic.ca]
-(mailto:dscommons@uvic.ca){:target="_blank"} or [sharonddias@uvic.ca](mailto:sharonddias@uvic.ca){:target="_blank"}
+If you’d like to earn a DSC badge for this workshop, please email screenshots of the following to: [dscommonss@uvic.ca](mailto:dscommonss@uvic.ca){:target="_blank"}
 
 1.  A list of cases
 2.  Case classification sheet
