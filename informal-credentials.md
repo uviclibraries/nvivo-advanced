@@ -20,8 +20,7 @@ If you’d like to earn a DSC badge for this workshop, please email screenshots 
 1. A list of cases
 2. Case classification sheet
 3. A Visualization
-4. A screenshot of a note saved to Notebook LM
-5. A screenshot of a query synthesizing multiple texts (e.g. the two interview transcripts provided in the activity)
+4. A screenshot of a query synthesizing multiple texts (e.g. the two interview transcripts provided in the activity)
 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
