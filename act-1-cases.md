@@ -134,4 +134,5 @@ parent: Workshop Activities
 **Well done! You have now completed your advanced NVivo Workshop!**
 
 [NEXT STEP (Optional): Qualitative Coding with Generative AI](act-2-genai.md){: .btn .btn-blue }
+
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
