@@ -10,9 +10,7 @@ parent: Workshop Activities
 1.	Make sure you have downloaded NVivo to your computer. **There is an annual fee of $100 for UVic graduate students, faculty, and staff to use NVivo.** 
 
 <br>[Licenses can be purchased here.](https://www.uvic.ca/systems/services/pages/analytics-and-bi.php#ipn-nvivo) 
-
 <br>Note that license requests require approval, which may take up to a week to process.
-
 <br>Alternatively, you can [download a trial version of the software.](https://lumivero.com/resources/free-trial/nvivo/) The trial is free for fourteen days.
 
 2.	Double-click on your NVivo icon to open the software.
