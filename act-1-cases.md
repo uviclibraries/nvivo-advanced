@@ -7,7 +7,9 @@ parent: Workshop Activities
 
 # Exploring Cases and Case Classifications
 
-1.	Make sure you have downloaded NVivo to your computer. If you are a graduate student or faculty, you have access to a free license through our University of Victoria. Alternatively, you can download a trial version from QSR website, just be aware that the trial version only last for 2 weeks, whereas UVic license will last until you are no longer affiliated with the university.
+1.	Make sure you have downloaded NVivo to your computer. **There is an annual fee of $100 for UVic graduate students, faculty, and staff to use NVivo.** [Licenses can be purchased here.](https://www.uvic.ca/systems/services/pages/analytics-and-bi.php#ipn-nvivo) Note that license requests require approval, which may take up to a week to process.
+
+Alternatively, you can [download a trial version of the software.](https://lumivero.com/resources/free-trial/nvivo/) The trial is free for fourteen days.
 
 2.	Double-click on your NVivo icon to open the software.
 <img src="images/act-2/2-1.png" alt="hierarchy chart" style="float:right;width:80px; margin-left:10px;">
@@ -66,7 +68,7 @@ parent: Workshop Activities
 
 15.	Create the following attributes to practice. Please note that you can add as many attributes as you want and as many **ATTRIBUTE PROPERTIES** as you wish.
 
-    -   **GENDER** (male, female, transgender male, transgender female, other)
+    -   **GENDER** (male, female, other)
     -   **INCOME LEVEL** (low, medium, high)
     -   **OCCUPATION**
     -   **STARTING AGE** (0-10, 11-20, 21-30, MORE THAN 30)
