@@ -54,16 +54,16 @@ Your selected files are now converted into **individual cases**. You’ll see th
 
     <img src="images/NVivo15/9-Cases.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-11.	Great. You created your first cases. To see them, go to **CASES** on the left pane and click. You can now see that each individual file is now a unique case that can be further explored. 
-
+11.	Great. You created your first cases. To view them, go to **Cases** Navigation pane and click on it. You’ll now see that each individual file has been turned into its own case, which you can explore and work with further.
     <img src="images/NVivo15/10-Cases2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-12.	Now that you have yours cases, we will create a classification sheet on NVivo to gather objective information from your data. To do that, select **CASE CLASSIFICATION**, then right click on the detail pane to open the option and click on **NEW CLASSIFICATION**
-
+12.	Now that your cases are created, let’s set up a classification sheet to record objective information.
+    1. 	Select **Case Classifications** in the Navigation pane.
+    2. 	In the Detail Pane, right-click.
+    3.	Choose **New Classification**.
     <img src="images/NVivo15/11-CaseClassification.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-13.	Create your case classification, our suggestion is to name it **ATTRIBUTES FOR BIOGRAPHIES ANALYSIS** as below and click **DONE.**
-
+13.	Create your case classification, our suggestion is to name it **ATTRIBUTES FOR BIOGRAPHIES ANALYSIS** as below and click **Done.**
     <img src="images/NVivo15/12-CaseClassification2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 14.	Now, let’s move on and add attributes to our biography case classification sheet. In this case, we want to gather some data from the files which represent a **biographed.** We will gather some information from each such as **gender, country of birth, income level, education level, region where they are from, century, impact level,** among others. In your own project, you can have as many attributes you want. To do that, take your arrow to the detail pane and right click in a blank space, you will see an option to create a **NEW ATTRIBUTE** as below, click on it.
@@ -86,16 +86,21 @@ Your selected files are now converted into **individual cases**. You’ll see th
 
     <img src="images/NVivo15/14-CaseClassification4.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-16.	Now that your classification sheet is ready, we need to link it to your cases, so we can gather further data from them. To do that, we will go back to **CASES-> SELECT ALL OUR FILES->RIGHT CLICK ON THEM->GO TO THE BOTTOM OF THE LIST ON CLASSIFICATION->CLICK ON “ATTRIBUTES FOR BIOGRAPHIES ANALYSIS”** as below, your NVivo will process the command and link each case to the attribute sheet you created:
-
+16.	Now that your classification sheet is ready, we need to link it to your cases so we can add attributes and further information. To do this:
+    1.	Go back to **Cases** in the Navigation pane.
+    2.	Select **all** your cases (all the files you created as cases).
+    3.	Right-click on the selected cases.
+    4.	Scroll down to **Classification** at the bottom of the menu.
+    5.	Choose **Attributes for Biographies Analysis** (or the name of the classification you created).
+NVivo will process the command and link each case to the classification sheet.
     <img src="images/act-2/16-2b.png" alt="hierarchy chart" style="width:300px; margin-left:10px">
 
     <img src="images/NVivo15/15-CaseClassification5.png" alt="hierarchy chart" style="width:540px; margin-left:10px;">
 
-17.	Now go to the left pane on **CASE CLASSIFICATION->DOUBLE CLICK IN YOUR “ATTRIBUTES FOR BIOGRAPHIES ANALYSIS” SHEET IN THE MIDDLE OF YOUR NVIVO INTERFACE->ON THE RIGHT SIDE OPEN YOUR CLASSIFICATION SHEET.**
-
-    You will see that your case classification sheet is created and all the attributes and attributes value are there. It will look like the image below:
-
+17.	Now, let’s open your classification sheet: 
+    1.	In the left Navigation pane, go to **Case Classifications**.
+    2.	Double-click your **‘Attributes for Biographies Analysis’** classification in the middle List View.
+    3.	Your classification sheet will open on the right side of the NVivo interface.
     <img src="images/NVivo15/16-CaseClassification6.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 18.	**Let’s begin our analysis.** As you can see, below each attribute there is an unassigned value, you can now click on each of them and start attributing answer to each attribute. In order to do that, you will need to read through the files you imported, they are located in two places (under files and under cases). 
