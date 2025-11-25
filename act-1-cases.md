@@ -140,7 +140,15 @@ Simply click on the visualization, then choose **Export**. From there, you can s
     Right click on the image and export the diagram to your computer. 
     <img src="images/NVivo15/26-Explore9.png" alt="hierarchy chart" style="width:400px; margin-left:10px;">
 
-24.	**SAVING AND EXPORTING YOUR PROJECT.** On the top of your screen go to **FILES,** then click **SAVE.** Once you have saved your project, export it by clicking on the option **EXPORT PROJECT.** 
+24.	**SAVING AND EXPORTING YOUR PROJECT.** To save your work:
+    1.	Go to the **File** menu at the top of your screen.
+    2.	Click **Save** to ensure all changes are stored in your project file.
+
+To export your project:
+        1.	Return to the **File** menu.
+        2.	Select **Export Project**.
+        3.	Choose a location on your computer where you’d like to save the     exported file.
+    This creates a backup copy of your project that you can share or store safely. 
 
 **Well done! You have now completed your advanced NVivo Workshop!**
 
