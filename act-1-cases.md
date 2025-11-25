@@ -121,11 +121,11 @@ NVivo will process the command and link each case to the classification sheet.
 20.	Now, keep exploring and click next to the Treemap where you read **Sunburst**
     <img src="images/NVivo15/19-Explore2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-22.	Do the same for **Summary**
+21.	Do the same for **Summary**
     <img src="images/NVivo15/20-Explore3.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-22.	**Exporting your visuals.** As you create your visuals on NVivo 12 Plus UVic license, you can export them to your computer by clicking on the image and choosing Export as below. You can choose the format such as PDF, PNG, JPEG, etc.
-
+22.	**Exporting your visuals.** As you create visualizations in NVivo, you can easily export them to your computer.
+Simply click on the visualization, then choose **Export**. From there, you can select your preferred file format, such as **PDF, PNG, JPEG**, and others.
     <img src="images/NVivo15/21-Explore4.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivo15/22-Explore5.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">    
 
