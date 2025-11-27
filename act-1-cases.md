@@ -110,15 +110,19 @@ NVivo will process the command and link each case to the classification sheet.
     When you fill up your classification sheet it will look like this:
     <img src="images/NVivo15/17-CaseClassification7.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-19.	**Let’s explore our data.** Now it is time to play with our data and find out patterns, differences, and so on. Go to the main tab and click on **EXPLORE,** then select attribute values for cases and in the ox right next to it, choose a variable and click **>**
+19.	**Let’s explore our data.** Now it’s time to play with your dataset and start identifying patterns, differences, and trends. 
+    1.	Go to the **Explore** tab on the main ribbon.
+    2.	Select **Hierarchy Chart**. 
+    3.	Select **Attribute Values for Cases**.
+    4.	In the box beside it, choose an attribute (a variable) and click the > button.
 
-    You should immediately see a **Treemap** with the occurrence of cases per country (in the case of mine). You can then add the other variables by selecting them and clicking >. 
+    You should immediately see a **Treemap** with the occurrence of cases per country (in the case of mine). You can then add the other variables by selecting them and clicking > button. 
     
     Take a moment to see what happens. You will notice that your Treemap is grouping all of them as you add more information. By exploring the countries, for instance, we can see that most of the cases were born in the UK.
 
     <img src="images/NVivo15/18-Explore1.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-20.	Now, keep exploring and click next to the Treemap where you read **Sunburst**
+20.	Now, continue exploring your data by clicking on the **Sunburst** visualization option next to the Treemap. This gives you another way to see how your cases are distributed across the attributes you selected.
     <img src="images/NVivo15/19-Explore2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 21.	Do the same for **Summary**
@@ -129,18 +133,24 @@ Simply click on the visualization, then choose **Export**. From there, you can s
     <img src="images/NVivo15/21-Explore4.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivo15/22-Explore5.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">    
 
-23.	**Comparing Cases.** We can also compare the attribute values of each case to find differences and commonalities between them. On the top ribbon, click on **EXPLORE,** then **COMPARISON DIAGRAM,** then click on **COMPARE CASES.** When a box opens select the case of Jane Goodall and Florence Nightingale and click on **select.**
-
+23.	**Comparing Cases.** We can also compare the attribute values of different cases to identify similarities and differences between them.
+To do this:
+    1.	On the top ribbon, click **Explore**.
+    2.	Select **Diagrams**.
+    3.	Choose **Compare Cases…**.
+When the selection box opens, select the cases for **Jane Goodall** and **Florence Nightingale**, then click **Select**.
     <img src="images/NVivo15/23-Explore6.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
-
-    Once you have done it, you will see a simple display of the connection between a case and a file, drag your attention to the right pane where it reads **DISPLAY** and then choose **ATTRIBUTES.** You can now see much more detailed information on each case and what features are overlapping among them as in the image below:
     <img src="images/NVivo15/24-Explore7.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
+   Once you’ve generated the comparison diagram, you’ll see a simple display showing the connection between each case and its associated file.
+Now look to the **right-hand pane**. Under **Display**, change the option to **Attributes**.
+
+This will give you a much more detailed view of each case, showing the attribute values side-by-side and highlighting where the two cases overlap or differ, as shown in the example below.
     <img src="images/NVivo15/25-Explore8.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
     
-    Right click on the image and export the diagram to your computer. 
+Right click on the image and export the diagram to your computer. 
     <img src="images/NVivo15/26-Explore9.png" alt="hierarchy chart" style="width:400px; margin-left:10px;">
 
-24.	**SAVING AND EXPORTING YOUR PROJECT.** To save your work:
+24.	**Saving And Exporting your project.** To save your work:
     1.	Go to the **File** menu at the top of your screen.
     2.	Click **Save** to ensure all changes are stored in your project file.
 
