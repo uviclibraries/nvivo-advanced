@@ -54,7 +54,7 @@ Your selected files are now converted into **individual cases**. You’ll see th
 
     <img src="images/NVivo15/9-Cases.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-11.	Great. You created your first cases. To view them, go to **Cases** Navigation pane and click on it. You’ll now see that each individual file has been turned into its own case, which you can explore and work with further.
+11.	Great. You created your first cases. To view them, go to **Cases** in the Navigation pane and click on it. You’ll now see that each individual file has been turned into its own case, which you can explore and work with further.
     <img src="images/NVivo15/10-Cases2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 12.	Now that your cases are created, let’s set up a classification sheet to record objective information.
