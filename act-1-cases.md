@@ -72,7 +72,7 @@ To view your cases, select Cases in the Navigation Pane. Each document has now b
 
     <img src="images/NVivo15/10-Cases2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-A case classification is a structured table used to store objective information (attributes) about your cases, such as demographic or contextual details. Classifications allow you to compare cases systematically and support analysis and visualization later in NVivo.
+   A case classification is a structured table used to store objective information (attributes) about your cases, such as demographic or contextual details. Classifications allow you to compare cases systematically and support analysis and visualization later in NVivo.
 
 11. **Create a case classification.**
 With your cases created, the next step is to set up a case classification to record objective information.
