@@ -76,9 +76,9 @@ To view your cases, select Cases in the Navigation Pane. Each document has now b
 
 11. **Create a case classification.**
 With your cases created, the next step is to set up a case classification to record objective information.
-   a. Select **Case Classifications** in the Navigation Pane.
-   b. In the Detail Pane, right-click.
-   c. Choose **New Classification.**
+   1. Select **Case Classifications** in the Navigation Pane.
+   2. In the Detail Pane, right-click.
+   3. Choose **New Classification.**
 
     <img src="images/NVivo15/11-CaseClassification.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
