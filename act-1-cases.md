@@ -59,10 +59,10 @@ There are multiple ways to create cases in NVivo. For this guide, we use a clear
 
     To create individual cases from your files:
    
-   * a. In the Navigation Pane, select the **Biographies** folder under **Files.**
-   * b. In the List View, select all files.
-   * c. Right-click the selected files.
-   * d. Choose **Create As > Cases.**
+   - a. In the Navigation Pane, select the **Biographies** folder under **Files.**
+   - b. In the List View, select all files.
+   - c. Right-click the selected files.
+   - d. Choose **Create As > Cases.**
 
     Your selected files are now converted into individual cases and will appear under **Cases** in the Navigation Pane.
     <img src="images/NVivo15/9-Cases.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
