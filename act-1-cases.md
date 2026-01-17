@@ -192,7 +192,7 @@ This view provides a more detailed comparison, displaying attribute values side 
     - a. Go to the **File** menu at the top of the screen.
     - b. Select **Save** to ensure all changes are stored in your project file.
 
-**Export your project:**
+    **Export your project:**
     - a. Return to the **File** menu.
     - b. Select **Export Project.**
     - c. Choose a location on your computer to save the exported file.
