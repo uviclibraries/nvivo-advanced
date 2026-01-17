@@ -96,7 +96,7 @@ To add an attribute:
 
     <img src="images/NVivo15/13-CaseClassification3.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-15. **Create attributes values.**
+14. **Create attributes values.**
 Create the following attributes to practice working with case classifications. You may add as many attributes and attribute properties as needed.
 Suggested attributes and values:
      - **Gender** (Male, Female, Other)
@@ -105,6 +105,7 @@ Suggested attributes and values:
      - 	**Starting Age** (0–10, 11–20, 21–30, More than 30)
      - 	**Country of Birth**
      - 	**Race/Ethnicity** (Indigenous, Afro-descendant, Caucasian, Person of Color)
+
     You can define and edit attribute values using the + and – buttons at the bottom of the attribute window, as shown in the image below.
 
     <img src="images/NVivo15/13a-Caseclassification4 NOT used.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
