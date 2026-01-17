@@ -72,13 +72,13 @@ To view your cases, select Cases in the Navigation Pane. Each document has now b
 
     <img src="images/NVivo15/10-Cases2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-   A case classification is a structured table used to store objective information (attributes) about your cases, such as demographic or contextual details. Classifications allow you to compare cases systematically and support analysis and visualization later in NVivo.
+    A case classification is a structured table used to store objective information (attributes) about your cases, such as demographic or contextual details. Classifications allow you to compare cases systematically and support analysis and visualization later in NVivo.
 
 11. **Create a case classification.**
 With your cases created, the next step is to set up a case classification to record objective information.
-   1. Select **Case Classifications** in the Navigation Pane.
-   2. In the Detail Pane, right-click.
-   3. Choose **New Classification.**
+   - a. Select **Case Classifications** in the Navigation Pane.
+   - b. In the Detail Pane, right-click.
+   - c. Choose **New Classification.**
 
     <img src="images/NVivo15/11-CaseClassification.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
@@ -91,20 +91,20 @@ Name the classification **Attributes for Biographies Analysis**, then click **Do
 Next, add attributes to the biography case classification to record objective information drawn from the documents.
 For this exercise, you may include attributes such as gender, country of birth, income level, education level, region, century, and impact level, among others. In your own projects, you can define as many attributes as needed, depending on your research questions.
 To add an attribute:
-    a. In the Detail Pane, right-click in a blank area.
-    b. Select **New Attribute.**
+    - a. In the Detail Pane, right-click in a blank area.
+    - b. Select **New Attribute.**
 
     <img src="images/NVivo15/13-CaseClassification3.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 15. **Create attributes values.**
 Create the following attributes to practice working with case classifications. You may add as many attributes and attribute properties as needed.
 Suggested attributes and values:
-•	**Gender** (Male, Female, Other)
-•	**Income Level** (Low, Medium, High)
-•	**Occupation**
-•	**Starting Age** (0–10, 11–20, 21–30, More than 30)
-•	**Country of Birth**
-•	**Race/Ethnicity** (Indigenous, Afro-descendant, Caucasian, Person of Color)
+ - **Gender** (Male, Female, Other)
+ - 	**Income Level** (Low, Medium, High)
+ - 	**Occupation**
+ - 	**Starting Age** (0–10, 11–20, 21–30, More than 30)
+ - 	**Country of Birth**
+ - 	**Race/Ethnicity** (Indigenous, Afro-descendant, Caucasian, Person of Color)
 You can define and edit attribute values using the + and – buttons at the bottom of the attribute window, as shown in the image below.
 
     <img src="images/NVivo15/13a-Caseclassification4 NOT used.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
@@ -114,11 +114,11 @@ You can define and edit attribute values using the + and – buttons at the bott
 16. **Assign the classification to your cases.**
 With the classification sheet created, the next step is to link it to your cases so that attributes can be assigned.
 To do this:
-a. In the Navigation Pane, select **Cases.**
-b. Select all cases.
-c. Right-click the selected cases.
-d. Scroll to **Classification** at the bottom of the menu.
-e. Choose **Attributes for Biographies Analysis** (or the name of the classification you created).
+- a. In the Navigation Pane, select **Cases.**
+- b. Select all cases.
+- c. Right-click the selected cases.
+- d. Scroll to **Classification** at the bottom of the menu.
+- e. Choose **Attributes for Biographies Analysis** (or the name of the classification you created).
 NVivo will process the command and link each case to the classification sheet.
 
     <img src="images/act-2/16-2b.png" alt="hierarchy chart" style="width:300px; margin-left:10px">
@@ -126,17 +126,17 @@ NVivo will process the command and link each case to the classification sheet.
     <img src="images/NVivo15/15-CaseClassification5.png" alt="hierarchy chart" style="width:540px; margin-left:10px;">
 
 17. **Open the classification sheet.**
-a. In the Navigation Pane, select **Case Classifications.**
-b. In the List View, double-click **Attributes for Biographies Analysis.**
-c. The classification sheet will open in the right-hand pane of the NVivo interface.
+- a. In the Navigation Pane, select **Case Classifications.**
+- b. In the List View, double-click **Attributes for Biographies Analysis.**
+- c. The classification sheet will open in the right-hand pane of the NVivo interface.
 
     <img src="images/NVivo15/16-CaseClassification6.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 18. **Assign attribute values and begin analysis.**
 With the classification sheet open, you can now begin assigning attribute values to each case. Under each attribute, you will see an **Unassigned** value.
 To complete the classification:
-•	Read through the documents to identify relevant information. Files can be accessed either under **Cases** in the Navigation Pane.
-•	In the classification sheet, click the **Unassigned** cell for each attribute and select or enter the appropriate value.
+- Read through the documents to identify relevant information. Files can be accessed either under **Cases** in the Navigation Pane.
+- In the classification sheet, click the **Unassigned** cell for each attribute and select or enter the appropriate value.
 Some attributes include predefined values (as specified in Step 14). For attributes without predefined values, type in the information based on your analysis of the data.
 Your completed classification sheet will resemble the example shown below. Note that attribute values may vary depending on your interpretation of the documents.
 
@@ -145,10 +145,10 @@ Your completed classification sheet will resemble the example shown below. Note 
 19. **Explore patterns using a hierarchy chart.**
 You can now explore your data to identify patterns, differences, and trends across cases.
 To create a hierarchy chart:
-a. Go to the **Explore** tab on the main ribbon.
-b. Select **Hierarchy Chart**.
-c. Choose **Attribute Values for Cases**.
-d. In the selection box, choose an attribute (variable) and click the > button.
+- a. Go to the **Explore** tab on the main ribbon.
+- b. Select **Hierarchy Chart**.
+- c. Choose **Attribute Values for Cases**.
+- d. In the selection box, choose an attribute (variable) and click the > button.
 A treemap visualization will appear, showing the distribution of cases by the selected attribute (for example, country of birth). You can add additional attributes by selecting them and clicking the > button.
 As you add more attributes, the treemap will update and group cases accordingly. Take a moment to explore how the visualization changes as different attributes are included. Your results may differ depending on how attributes were assigned.
 
@@ -173,9 +173,9 @@ Visualizations created in NVivo can be exported to your computer. Select a visua
 23. Compare cases.
 You can compare attribute values across cases to identify similarities and differences.
 To compare cases:
-a. On the top ribbon, select **Explore.**
-b. Choose **Diagrams.**
-c. Select Compare Cases. When the selection window opens, choose the cases for **Jane Goodall** and **Florence Nightingale**, then click **Select**.
+- a. On the top ribbon, select **Explore.**
+- b. Choose **Diagrams.**
+- c. Select Compare Cases. When the selection window opens, choose the cases for **Jane Goodall** and **Florence Nightingale**, then click **Select**.
 
     <img src="images/NVivo15/23-Explore6.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
     <img src="images/NVivo15/24-Explore7.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
@@ -190,12 +190,12 @@ This view provides a more detailed comparison, displaying attribute values side 
 
 23. **Saving and exporting your project.**
 **Save your project:**
-1.	Go to the **File** menu at the top of the screen.
-2.	Select **Save** to ensure all changes are stored in your project file.
+- 1.	Go to the **File** menu at the top of the screen.
+- 2.	Select **Save** to ensure all changes are stored in your project file.
 **Export your project:**
-1.	Return to the **File** menu.
-2.	Select **Export Project.**
-3.	Choose a location on your computer to save the exported file.
+- 1.	Return to the **File** menu.
+- 2.	Select **Export Project.**
+- 3.	Choose a location on your computer to save the exported file.
 Exporting creates a backup copy of your project that can be shared or stored safely.
 
 **Well done!**
