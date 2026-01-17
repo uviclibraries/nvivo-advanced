@@ -189,12 +189,13 @@ This view provides a more detailed comparison, displaying attribute values side 
 
 23. **Saving and exporting your project.**
 **Save your project:**
-    - 1.	Go to the **File** menu at the top of the screen.
-    - 2.	Select **Save** to ensure all changes are stored in your project file.
+    - a. Go to the **File** menu at the top of the screen.
+    - b. Select **Save** to ensure all changes are stored in your project file.
 **Export your project:**
-    - 1.	Return to the **File** menu.
-    - 2.	Select **Export Project.**
-    - 3.	Choose a location on your computer to save the exported file.
+    - a. Return to the **File** menu.
+    - b. Select **Export Project.**
+    - c. Choose a location on your computer to save the exported file.
+
 Exporting creates a backup copy of your project that can be shared or stored safely.
 
 **Well done!**
