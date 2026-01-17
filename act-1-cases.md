@@ -105,7 +105,7 @@ Suggested attributes and values:
      - 	**Starting Age** (0–10, 11–20, 21–30, More than 30)
      - 	**Country of Birth**
      - 	**Race/Ethnicity** (Indigenous, Afro-descendant, Caucasian, Person of Color)
-You can define and edit attribute values using the + and – buttons at the bottom of the attribute window, as shown in the image below.
+    You can define and edit attribute values using the + and – buttons at the bottom of the attribute window, as shown in the image below.
 
     <img src="images/NVivo15/13a-Caseclassification4 NOT used.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
     
