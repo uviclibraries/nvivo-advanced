@@ -51,7 +51,7 @@ Select the **Biographies** folder you just created, then go to the top ribbon an
     <img src="images/NVivo15/6-ImportDocuments.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 
-Cases represent the units of analysis in your research, for example, the people you interviewed, the communities you studied, or the organizations or events you’re analyzing. Creating cases allows you to assign attributes (such as age, country, role, or group) to each one, so that later you can compare themes across participants or contexts.
+    Cases represent the units of analysis in your research, for example, the people you interviewed, the communities you studied, or the organizations or events you’re analyzing. Creating cases allows you to assign attributes (such as age, country, role, or group) to each one, so that later you can compare themes across participants or contexts.
 
 9. **Create cases from your files.**
 With your files imported, the next step is to convert them into cases. This allows you to assign classifications and attributes to each document and begin more detailed analysis.
