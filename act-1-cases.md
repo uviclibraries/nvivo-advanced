@@ -196,10 +196,10 @@ This view provides a more detailed comparison, displaying attribute values side 
     - a. Return to the **File** menu.
     - b. Select **Export Project.**
     - c. Choose a location on your computer to save the exported file.
-
-Exporting creates a backup copy of your project that can be shared or stored safely.
+    Exporting creates a backup copy of your project that can be shared or stored safely.
 
 **Well done!**
+
 You have now completed the **Advanced NVivo Workshop.**
 
 
