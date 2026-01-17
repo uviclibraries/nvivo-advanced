@@ -58,7 +58,7 @@ With your files imported, the next step is to convert them into cases. This allo
 There are multiple ways to create cases in NVivo. For this guide, we use a clear and structured approach that supports learning and keeps the NVivo workspace organized.
 
     To create individual cases from your files:
-   a. In the Navigation Pane, select the **Biographies** folder under **Files.**
+   a.  In the Navigation Pane, select the **Biographies** folder under **Files.**
    b. In the List View, select all files.
    c. Right-click the selected files.
    d. Choose **Create As > Cases.**
@@ -66,7 +66,7 @@ There are multiple ways to create cases in NVivo. For this guide, we use a clear
     Your selected files are now converted into individual cases and will appear under **Cases** in the Navigation Pane.
     <img src="images/NVivo15/9-Cases.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-10. **View your cases.**
+11. **View your cases.**
 To view your cases, select Cases in the Navigation Pane. Each document has now been converted into an individual case, which you can explore and analyze further.
 
     <img src="images/NVivo15/10-Cases2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
