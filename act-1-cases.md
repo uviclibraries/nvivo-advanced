@@ -180,12 +180,11 @@ To compare cases:
     <img src="images/NVivo15/23-Explore6.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
     <img src="images/NVivo15/24-Explore7.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
 
-Once the comparison diagram is generated, a basic view will appear showing the connection between each case and its associated file. In the right-hand pane, under **Display**, change the option to **Attributes**.
+    Once the comparison diagram is generated, a basic view will appear showing the connection between each case and its associated file. In the right-hand pane, under **Display**, change the option to **Attributes**.
 This view provides a more detailed comparison, displaying attribute values side by side and highlighting similarities and differences between the selected cases, as shown in the example below. 
-
     <img src="images/NVivo15/25-Explore8.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
 
-**Right-click the diagram and select Export** to save it to your computer.
+    **Right-click the diagram and select Export** to save it to your computer.
     <img src="images/NVivo15/26-Explore9.png" alt="hierarchy chart" style="width:400px; margin-left:10px;">
 
 23. **Saving and exporting your project.**
