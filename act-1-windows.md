@@ -1,4 +1,9 @@
-<!--Archived
+---
+layout: default
+title: 1-Windows
+nav_order: 5
+parent: Workshop Activities
+---
 
 # Group Interview Data: Tracking Public Understanding of Climate Change Over Time
 ## Windows Version
