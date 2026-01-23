@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Cases and Case Classifications
+title: 1-Cases and Case Classifications For Mac Users
 nav_order: 2
 parent: Workshop Activities
 ---
