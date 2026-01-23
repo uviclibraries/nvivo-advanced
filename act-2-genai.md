@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2-GenAI Coding Assistance
-nav_order: 3
+nav_order: 4
 parent: Workshop Activities
 ---
 
