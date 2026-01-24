@@ -155,7 +155,8 @@ A treemap visualization will appear, showing the distribution of cases by the se
     <img src="images/NVivoWindows/22.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/23.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/24.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
-As you add more attributes, the treemap will update and group cases accordingly. Take a moment to explore how the visualization changes as different attributes are included. Your results may differ depending on how attributes were assigned.
+
+    As you add more attributes, the treemap will update and group cases accordingly. Take a moment to explore how the visualization changes as different attributes are included. Your results may differ depending on how attributes were assigned.
 
     <img src="images/NVivoWindows/25.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
