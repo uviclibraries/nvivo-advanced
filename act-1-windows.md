@@ -126,7 +126,7 @@ To do this:
     - e. Choose **Attributes for Biographies Analysis** (or the name of the classification you created).
 NVivo will process the command and link each case to the classification sheet.
 
-    <img src="images/NVivoWindows/19.png" alt="hierarchy chart" style="width:540px; margin-left:10px;">
+    <img src="images/NVivoWindows/19.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
 
 16. **Open the classification sheet.**
     - a. In the Navigation Pane, select **Case Classifications.**
