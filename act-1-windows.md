@@ -46,10 +46,10 @@ With the NVivo workspace set up, you can now import files into your project. Dow
 Once the documents are saved on your computer, import them into your NVivo project. This follows the same procedure used in the introductory NVivo workshop.
 Select the **Biographies** folder you just created, then go to the top ribbon and choose **Data > Documents**. When the import window opens, select the files from your computer and click **Import**.
 
-    <img src="images/NVivoWindows/6.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
-    <img src="images/NVivoWindows/7.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
-    <img src="images/NVivoWindows/8.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
-    <img src="images/NVivoWindows/9.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
+    <img src="images/NVivoWindows/6.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/7.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/8.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/9.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
    Cases represent the units of analysis in your research, for example, the people you interviewed, the communities you studied, or the organizations or events you’re analyzing. Creating cases allows you to assign attributes (such as age, country, role, or group) to each one, so that later you can compare themes across participants or contexts.
 
@@ -82,8 +82,7 @@ With your cases created, the next step is to set up a case classification to rec
    - b. In the Detail Pane, right-click.
    - c. Choose **New Classification.**
 
-    <img src="images/NVivoWindows/13.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
-
+<img src="images/NVivoWindows/13.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 12. **Name your case classification.**
 Name the classification **Attributes for Biographies Analysis**, then click **Ok.**
@@ -113,7 +112,6 @@ Repeat these steps to create the following attributes and values:
      - 	**Race/Ethnicity** (Indigenous, Afro-descendant, Caucasian, Person of Color)
 
     <img src="images/NVivoWindows/16.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
-    
     <img src="images/NVivoWindows/17.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/18.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
@@ -154,7 +152,7 @@ To create a hierarchy chart:
     - c. In the **Hierarchy Chart Wizard** dialog box, select **Cases**, and click **Next** button.
     - d. In the next page, select the case classification (Attributes for Biographies Analysis), and choose an attribute (variable) and click **Finish**. 
 A treemap visualization will appear, showing the distribution of cases by the selected attribute (for example, country of birth). You can add additional attributes by selecting them and clicking the > button.
-    <img src="images/NVivoWindows/22.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
+    <img src="images/NVivoWindows/22.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/23.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/24.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 As you add more attributes, the treemap will update and group cases accordingly. Take a moment to explore how the visualization changes as different attributes are included. Your results may differ depending on how attributes were assigned.
@@ -166,8 +164,8 @@ To continue exploring your data, select the **Sunburst** visualization option ne
     - a. Go to **Explore → Hierarchy Chart** (as in your previous step).
     - b. Once the **Hierarchy Chart** (Treemap) is displayed, look at the **top-left corner of the visualization panel.**
     - c. You will see **visualization icon**:
-    -     **Treemap** (default)
-    -     **Sunburst** (circular icon next to Treemap)
+    - **Treemap** (default)
+    - **Sunburst** (circular icon next to Treemap)
     - d. Click the **Sunburst** icon to switch views.
 
     <img src="images/NVivoWindows/26.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
