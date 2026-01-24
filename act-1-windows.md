@@ -112,7 +112,7 @@ To create an attribute:
      - 	**Country of Birth**
      - 	**Race/Ethnicity** (Indigenous, Afro-descendant, Caucasian, Person of Color)
 
-    <img src="images/NVivoWindows/16.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
+    <img src="images/NVivoWindows/16.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/17.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/18.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
