@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Windows
+title: 1-Cases and Case Classifications For Windows Users
 nav_order: 3
 parent: Workshop Activities
 ---
