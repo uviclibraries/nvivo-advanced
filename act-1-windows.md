@@ -82,7 +82,7 @@ With your cases created, the next step is to set up a case classification to rec
    - b. In the Detail Pane, right-click.
    - c. Choose **New Classification.**
 
-    <img src="images/NVivoWindows/13.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+   <img src="images/NVivoWindows/13.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 12. **Name your case classification.**
 Name the classification **Attributes for Biographies Analysis**, then click **Ok.**
