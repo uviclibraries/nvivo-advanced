@@ -103,7 +103,8 @@ To create an attribute:
     - a. In the **New Attribute** dialog box, enter a **Name** for the attribute.
     - b. Select the **Values** tab and click **Add** to define values (if applicable).
     - c. Click **OK**.
-Repeat these steps to create the following attributes and values:
+
+    Repeat these steps to create the following attributes and values:
      -  **Gender** (Male, Female, Other)
      - 	**Income Level** (Low, Medium, High)
      - 	**Occupation**
