@@ -133,7 +133,7 @@ NVivo will process the command and link each case to the classification sheet.
     - b. In the List View, double-click **Attributes for Biographies Analysis.**
     - c. The classification sheet will open in the right-hand pane of the NVivo interface.
 
-    <img src="images/NVivoWindows/20.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/20.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
 
 17. **Assign attribute values and begin analysis.**
 With the classification sheet open, you can now begin assigning attribute values to each case. Under each attribute, you will see an **Unassigned** value.
@@ -143,7 +143,7 @@ To complete the classification:
 Some attributes include predefined values (as specified in Step 14). For attributes without predefined values, type in the information based on your analysis of the data.
 Your completed classification sheet will resemble the example shown below. Note that attribute values may vary depending on your interpretation of the documents.
 
-    <img src="images/NVivoWindows/21.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/21.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
 
 18. **Explore patterns using a hierarchy chart.**
 You can now explore your data to identify patterns, differences, and trends across cases.
