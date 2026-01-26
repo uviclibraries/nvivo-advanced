@@ -7,7 +7,7 @@ nav_order: 10
 
 ## NVivo Resources
 
--   NVivo [User Guide](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/support-services/nvivo-help){:target="_blank"}
+-   NVivo [Getting Started Guide](https://lumivero.com/resources/support/getting-started-with-nvivo/nvivo-tutorials/){:target="_blank"}
 -   Georgia State University Guides
     -   NVivo 1: [Getting Started](http://research.library.gsu.edu/ld.php?content_id=43073472){:target="_blank"}
     -   NVivo 2: [Exploring Your Data](http://research.library.gsu.edu/ld.php?content_id=43239598){:target="_blank"}
