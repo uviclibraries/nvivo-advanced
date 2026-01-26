@@ -199,9 +199,12 @@ This view provides a more detailed comparison, displaying attribute values side 
     <img src="images/NVivoWindows/32.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
     **Right-click the diagram and select Export** to save it to your computer.
+    <a href="images/NVivoWindows/33.png">
+      <img src="images/NVivoWindows/33.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
+    </a>
     <img src="images/NVivoWindows/33.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
-23. **Saving and exporting your project.**
+24. **Saving and exporting your project.**
 **Save your project:**
     - a. Go to the **File** menu at the top of the screen.
     - b. Select **Save** to ensure all changes are stored in your project file.
