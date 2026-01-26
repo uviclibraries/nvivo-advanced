@@ -20,17 +20,17 @@ When the program opens, click **New Project.**
 3.	**Set up your project.**
 In the project setup window, enter a project name, choose a save location, and add a description. For this exercise, we recommend naming your project **Biography Analysis.**
    
-    <img src="images/NVivoWindows/2.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
+    <img src="images/NVivoWindows/2.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
 4.	**Enter the NVivo workspace.**
 After creating your project, NVivo will open the main project workspace. If you are using a UVic NVivo license, your interface may look like the image below. If you are using a commercial or trial version, the layout may vary slightly.
 
-    <img src="images/NVivoWindows/3.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/3.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
 5. **Create a folder in Files.**
 In the left navigation pane, right-click **Files** and select **New Folder.**
 
-     <img src="images/NVivoWindows/4.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+     <img src="images/NVivoWindows/4.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
 6. **Name your folder.**
 Name the folder **Biographies.** You may optionally add a folder description, then click **Done.**
@@ -49,7 +49,7 @@ Select the **Biographies** folder you just created, then go to the top ribbon an
     <img src="images/NVivoWindows/6.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/7.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/8.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
-    <img src="images/NVivoWindows/9.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/9.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
    Cases represent the units of analysis in your research, for example, the people you interviewed, the communities you studied, or the organizations or events you’re analyzing. Creating cases allows you to assign attributes (such as age, country, role, or group) to each one, so that later you can compare themes across participants or contexts.
 
@@ -72,7 +72,7 @@ There are multiple ways to create cases in NVivo. For this guide, we use a clear
 10. **View your cases.**
 To view your cases, select Cases in the Navigation Pane. Each document has now been converted into an individual case, which you can explore and analyze further.
 
-    <img src="images/NVivoWindows/12.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/12.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
     A **case classification** is a structured table used to store objective information (attributes) about your cases, such as demographic or contextual details. Classifications allow you to compare cases systematically and support analysis and visualization later in NVivo.
 
@@ -82,7 +82,7 @@ With your cases created, the next step is to set up a case classification to rec
    - b. In the Detail Pane, right-click.
    - c. Choose **New Classification.**
 
-    <img src="images/NVivoWindows/13.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/13.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
 12. **Name your case classification.**
 Name the classification **Attributes for Biographies Analysis**, then click **Ok.**
@@ -95,7 +95,7 @@ For this exercise, you may include attributes such as gender, country of birth, 
 To add an attribute:
     - Select the newly created case classification (**Attributes for Biographies Analysis**), right-click, and select **New Attribute**.
 
-    <img src="images/NVivoWindows/15.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/15.png" alt="hierarchy chart" style="width:7500px; margin-left:10px;">
 
 14. **Create attributes values.**
 Create the following attributes using the **New Attribute** dialog box. Attribute values are defined in the **Values** tab. You may add as many attributes and attribute values as needed.
@@ -114,7 +114,7 @@ To create an attribute:
 
     <img src="images/NVivoWindows/16.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/17.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
-    <img src="images/NVivoWindows/18.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/18.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
 15. **Assign the classification to your cases.**
 With the classification sheet created, the next step is to link it to your cases so that attributes can be assigned.
@@ -153,13 +153,13 @@ To create a hierarchy chart:
     - c. In the **Hierarchy Chart Wizard** dialog box, select **Cases**, and click **Next** button.
     - d. In the next page, select the case classification (Attributes for Biographies Analysis), and choose an attribute (variable) and click **Finish**. 
 A treemap visualization will appear, showing the distribution of cases by the selected attribute (for example, country of birth). You can add additional attributes by selecting them and clicking the > button.
-    <img src="images/NVivoWindows/22.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
-    <img src="images/NVivoWindows/23.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
-    <img src="images/NVivoWindows/24.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/22.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
+    <img src="images/NVivoWindows/23.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
+    <img src="images/NVivoWindows/24.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
 
     As you add more attributes, the treemap will update and group cases accordingly. Take a moment to explore how the visualization changes as different attributes are included. Your results may differ depending on how attributes were assigned.
 
-    <img src="images/NVivoWindows/25.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/25.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
 19. **Explore the data using a sunburst visualization.**
 To continue exploring your data, select the **Sunburst** visualization option next to the treemap. This provides an alternative view of how cases are distributed across the selected attributes.
@@ -170,18 +170,18 @@ To continue exploring your data, select the **Sunburst** visualization option ne
     - **Sunburst** (circular icon next to Treemap)
     - d. Click the **Sunburst** icon to switch views.
 
-    <img src="images/NVivoWindows/26.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/26.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
 20. **Explore the data using a summary visualization.**
 Select the **Summary** visualization option to view an aggregated overview of how cases are distributed across the selected attributes.
 
-    <img src="images/NVivoWindows/27.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/27.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
 21. **Export visualizations.**
 Visualizations created in NVivo can be exported to your computer. Select a visualization, then choose **Export.** From there, select your preferred file format (e.g., PDF, PNG, JPEG).
 
-    <img src="images/NVivoWindows/28.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
-    <img src="images/NVivoWindows/29.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/28.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
+    <img src="images/NVivoWindows/29.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
 
 22. **Compare cases.**
 You can compare attribute values across cases to identify similarities and differences.
@@ -190,16 +190,16 @@ To compare cases:
     - b. Choose **Diagrams.**
     - c. Select **Compare Cases**. In the **Select Project Items** dialog box, choose the cases for **Jane Goodall** and **Florence Nightingale**, then click **OK**.
 
-    <img src="images/NVivoWindows/30.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
+    <img src="images/NVivoWindows/30.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
     <img src="images/NVivoWindows/31.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
 
     Once the comparison diagram is generated, a basic view will appear showing the connection between each case and its associated file. In the **Comparison Diagram** tab, select **Attributes values**.
 This view provides a more detailed comparison, displaying attribute values side by side and highlighting similarities and differences between the selected cases, as shown in the example below.
 
-    <img src="images/NVivoWindows/32.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
+    <img src="images/NVivoWindows/32.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
     **Right-click the diagram and select Export** to save it to your computer.
-    <img src="images/NVivoWindows/33.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
+    <img src="images/NVivoWindows/33.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
 23. **Saving and exporting your project.**
 **Save your project:**
