@@ -199,7 +199,7 @@ This view provides a more detailed comparison, displaying attribute values side 
     <img src="images/NVivoWindows/32.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
     **Right-click the diagram and select Export** to save it to your computer.
-    <a href="images/NVivoWindows/33.png">
+    <a href="images/NVivoWindows/33.png" target="_blank">
       <img src="images/NVivoWindows/33.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
     </a>
     <img src="images/NVivoWindows/33.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
