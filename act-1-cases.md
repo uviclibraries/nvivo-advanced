@@ -112,7 +112,7 @@ Suggested attributes and values:
     
     <img src="images/NVivo15/14-CaseClassification4.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-16. **Assign the classification to your cases.**
+15. **Assign the classification to your cases.**
 With the classification sheet created, the next step is to link it to your cases so that attributes can be assigned.
 To do this:
     - a. In the Navigation Pane, select **Cases.**
@@ -126,14 +126,14 @@ NVivo will process the command and link each case to the classification sheet.
 
     <img src="images/NVivo15/15-CaseClassification5.png" alt="hierarchy chart" style="width:540px; margin-left:10px;">
 
-17. **Open the classification sheet.**
+16. **Open the classification sheet.**
     - a. In the Navigation Pane, select **Case Classifications.**
     - b. In the List View, double-click **Attributes for Biographies Analysis.**
     - c. The classification sheet will open in the right-hand pane of the NVivo interface.
 
     <img src="images/NVivo15/16-CaseClassification6.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-18. **Assign attribute values and begin analysis.**
+17. **Assign attribute values and begin analysis.**
 With the classification sheet open, you can now begin assigning attribute values to each case. Under each attribute, you will see an **Unassigned** value.
 To complete the classification:
 - Read through the documents to identify relevant information. Files can be accessed either under **Cases** in the Navigation Pane.
@@ -143,7 +143,7 @@ Your completed classification sheet will resemble the example shown below. Note 
 
     <img src="images/NVivo15/17-CaseClassification7.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-19. **Explore patterns using a hierarchy chart.**
+18. **Explore patterns using a hierarchy chart.**
 You can now explore your data to identify patterns, differences, and trends across cases.
 To create a hierarchy chart:
     - a. Go to the **Explore** tab on the main ribbon.
@@ -155,23 +155,23 @@ As you add more attributes, the treemap will update and group cases accordingly.
 
     <img src="images/NVivo15/18-Explore1.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-20. **Explore the data using a sunburst visualization.**
+19. **Explore the data using a sunburst visualization.**
 To continue exploring your data, select the **Sunburst** visualization option next to the treemap. This provides an alternative view of how cases are distributed across the selected attributes.
 
     <img src="images/NVivo15/19-Explore2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-21. **Explore the data using a summary visualization.**
+20. **Explore the data using a summary visualization.**
 Select the **Summary** visualization option to view an aggregated overview of how cases are distributed across the selected attributes.
 
     <img src="images/NVivo15/20-Explore3.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
-22. **Export visualizations.**
+21. **Export visualizations.**
 Visualizations created in NVivo can be exported to your computer. Select a visualization, then choose **Export.** From there, select your preferred file format (e.g., PDF, PNG, JPEG).
 
     <img src="images/NVivo15/21-Explore4.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivo15/22-Explore5.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">    
 
-23. Compare cases.
+22. **Compare cases.**
 You can compare attribute values across cases to identify similarities and differences.
 To compare cases:
     - a. On the top ribbon, select **Explore.**
