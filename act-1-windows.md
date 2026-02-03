@@ -15,7 +15,7 @@ parent: Workshop Activities
 2.	**Launch NVivo.**
 When the program opens, click **New Project.** 
 
-    <img src="images/NVivoWindows/1.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
+    <img src="images/NVivoWindows/1.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
 3.	**Set up your project.**
 In the project setup window, enter a project name, choose a save location, and add a description. For this exercise, we recommend naming your project **Biography Analysis.**
