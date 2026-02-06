@@ -62,13 +62,19 @@ Once the documents are saved on your computer, import them into your NVivo proje
     To import the files:
    - a. In the Navigation Pane, select the **Biographies** folder you created under **Files**.
    - b. Go to the top ribbon and select **Import > Files**.
-   - In the file browser window, locate and select the four documents you downloaded, and click **Open**.
-   - When the import window opens, select the files from your computer and click **Import**.
+   - c. In the file browser window, locate and select the four documents you downloaded, and click **Open**.
+   - d. When the import window opens, select the files from your computer and click **Import**.
      Your documents will now appear in the Biographies folder within NVivo.
 
-    <img src="images/NVivoWindows/7.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
-    <img src="images/NVivoWindows/8.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
-    <img src="images/NVivoWindows/9.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    <a href="images/NVivoWindows/7.png" target="_blank">
+      <img src="images/NVivoWindows/7.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
+    <a href="images/NVivoWindows/8.png" target="_blank">
+      <img src="images/NVivoWindows/8.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
+    <a href="images/NVivoWindows/9.png" target="_blank">
+      <img src="images/NVivoWindows/9.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
    Cases represent the units of analysis in your research, for example, the people you interviewed, the communities you studied, or the organizations or events you’re analyzing. Creating cases allows you to assign attributes (such as age, country, role, or group) to each one, so that later you can compare themes across participants or contexts.
 
@@ -78,21 +84,28 @@ There are multiple ways to create cases in NVivo. For this guide, we use a clear
 
     To create individual cases from your files:
    
-   - a. In the Navigation Pane, select the Biog**r**aphies folder under **Files**.
+   - a. In the Navigation Pane, select the **Biographies** folder under **Files**.
    - b. In the List View, select all files.
    - c. Right-click the selected files.
    - d. Choose **Create As > Create as Cases.**
    - e. In the **Select Location** dialog box, choose the desired location and click **OK**.
 
     Your selected files are now converted into individual cases and will appear under **Cases** in the Navigation Pane.
-    <img src="images/NVivoWindows/10.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
-    <img src="images/NVivoWindows/11.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
+
+    <a href="images/NVivoWindows/10.png" target="_blank">
+      <img src="images/NVivoWindows/10.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
+    <a href="images/NVivoWindows/11.png" target="_blank">
+      <img src="images/NVivoWindows/11.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
+    </a>
 
 10. **View your cases.**
 To view your cases, select Cases in the Navigation Pane. Each document has now been converted into an individual case, which you can explore and analyze further.
 
-    <img src="images/NVivoWindows/12.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
-
+    <a href="images/NVivoWindows/12.png" target="_blank">
+      <img src="images/NVivoWindows/12.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
+    
     A **case classification** is a structured table used to store objective information (attributes) about your cases, such as demographic or contextual details. Classifications allow you to compare cases systematically and support analysis and visualization later in NVivo.
 
 11. **Create a case classification.**
@@ -140,7 +153,7 @@ To create an attribute:
      - 	**Race/Ethnicity** (Indigenous, Afro-descendant, Caucasian, Person of Color)
 
     <a href="images/NVivoWindows/16.png" target="_blank">
-      <img src="images/NVivoWindows/16.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+      <img src="images/NVivoWindows/16.png" alt="hierarchy chart" style="width:650px; margin-left:10px;">
     </a>
     <a href="images/NVivoWindows/17.png" target="_blank">
       <img src="images/NVivoWindows/17.png" alt="hierarchy chart" style="width:650px; margin-left:10px;">
@@ -197,10 +210,10 @@ A treemap visualization will appear, showing the distribution of cases by the se
       <img src="images/NVivoWindows/22.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
     </a>
     <a href="images/NVivoWindows/23.png" target="_blank">
-      <img src="images/NVivoWindows/23.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+      <img src="images/NVivoWindows/23.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     </a>
     <a href="images/NVivoWindows/24.png" target="_blank">
-      <img src="images/NVivoWindows/24.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+      <img src="images/NVivoWindows/24.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     </a>
 
     As you add more attributes, the treemap will update and group cases accordingly. Take a moment to explore how the visualization changes as different attributes are included. Your results may differ depending on how attributes were assigned.
