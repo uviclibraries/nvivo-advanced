@@ -47,8 +47,12 @@ With the NVivo workspace set up, you can now import files into your project. Dow
 Once the documents are saved on your computer, import them into your NVivo project. This follows the same procedure used in the introductory NVivo workshop.
 Select the **Biographies** folder you just created, then go to the top ribbon and choose **Import > Files > Documents.** When the import window opens, select the files from your computer and click **Import.**
 
-    <img src="images/NVivo15/8-ImportDocuments3.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
-    <img src="images/NVivo15/6-ImportDocuments.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <a href="images/NVivo15/8-ImportDocuments3.png" target="_blank">
+      <img src="images/NVivo15/8-ImportDocuments3.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
+    <a href="images/NVivo15/6-ImportDocuments.png" target="_blank">
+      <img src="images/NVivo15/6-ImportDocuments.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
    Cases represent the units of analysis in your research, for example, the people you interviewed, the communities you studied, or the organizations or events you’re analyzing. Creating cases allows you to assign attributes (such as age, country, role, or group) to each one, so that later you can compare themes across participants or contexts.
 
@@ -64,12 +68,16 @@ There are multiple ways to create cases in NVivo. For this guide, we use a clear
    - d. Choose **Create As > Cases.**
 
     Your selected files are now converted into individual cases and will appear under **Cases** in the Navigation Pane.
-    <img src="images/NVivo15/9-Cases.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <a href="images/NVivo15/9-Cases.png" target="_blank">
+      <img src="images/NVivo15/9-Cases.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
 10. **View your cases.**
 To view your cases, select Cases in the Navigation Pane. Each document has now been converted into an individual case, which you can explore and analyze further.
 
-    <img src="images/NVivo15/10-Cases2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <a href="images/NVivo15/10-Cases2.png" target="_blank">
+      <img src="images/NVivo15/10-Cases2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
     A case classification is a structured table used to store objective information (attributes) about your cases, such as demographic or contextual details. Classifications allow you to compare cases systematically and support analysis and visualization later in NVivo.
 
@@ -79,12 +87,16 @@ With your cases created, the next step is to set up a case classification to rec
    - b. In the Detail Pane, right-click.
    - c. Choose **New Classification.**
 
-    <img src="images/NVivo15/11-CaseClassification.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <a href="images/NVivo15/11-CaseClassification.png" target="_blank">
+      <img src="images/NVivo15/11-CaseClassification.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
 12. **Name your case classification.**
 Name the classification **Attributes for Biographies Analysis**, then click **Done.**
 
-    <img src="images/NVivo15/12-CaseClassification2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <a href="images/NVivo15/12-CaseClassification2.png" target="_blank">
+      <img src="images/NVivo15/12-CaseClassification2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
 13. **Add attributes to the case classification.**
 Next, add attributes to the biography case classification to record objective information drawn from the documents.
@@ -93,7 +105,9 @@ To add an attribute:
     - a. In the Detail Pane, right-click in a blank area.
     - b. Select **New Attribute.**
 
-    <img src="images/NVivo15/13-CaseClassification3.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <a href="images/NVivo15/13-CaseClassification3.png" target="_blank">
+      <img src="images/NVivo15/13-CaseClassification3.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
 14. **Create attributes values.**
 Create the following attributes to practice working with case classifications. You may add as many attributes and attribute properties as needed.
@@ -107,9 +121,13 @@ Suggested attributes and values:
 
     You can define and edit attribute values using the + and – buttons at the bottom of the attribute window, as shown in the image below.
 
-    <img src="images/NVivo15/13a-Caseclassification4 NOT used.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
+    <a href="images/NVivo15/13a-Caseclassification4 NOT used.png" target="_blank">
+      <img src="images/NVivo15/13a-Caseclassification4 NOT used.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
+    </a>
     
-    <img src="images/NVivo15/14-CaseClassification4.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <a href="images/NVivo15/14-CaseClassification4.png" target="_blank">
+      <img src="images/NVivo15/14-CaseClassification4.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
 15. **Assign the classification to your cases.**
 With the classification sheet created, the next step is to link it to your cases so that attributes can be assigned.
@@ -123,14 +141,18 @@ NVivo will process the command and link each case to the classification sheet.
 
     <img src="images/act-2/16-2b.png" alt="hierarchy chart" style="width:300px; margin-left:10px">
 
-    <img src="images/NVivo15/15-CaseClassification5.png" alt="hierarchy chart" style="width:540px; margin-left:10px;">
+    <a href="images/NVivo15/15-CaseClassification5.png" target="_blank">
+      <img src="images/NVivo15/15-CaseClassification5.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
 16. **Open the classification sheet.**
     - a. In the Navigation Pane, select **Case Classifications.**
     - b. In the List View, double-click **Attributes for Biographies Analysis.**
     - c. The classification sheet will open in the right-hand pane of the NVivo interface.
 
-    <img src="images/NVivo15/16-CaseClassification6.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <a href="images/NVivo15/16-CaseClassification6.png" target="_blank">
+      <img src="images/NVivo15/16-CaseClassification6.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
 17. **Assign attribute values and begin analysis.**
 With the classification sheet open, you can now begin assigning attribute values to each case. Under each attribute, you will see an **Unassigned** value.
@@ -140,7 +162,9 @@ To complete the classification:
 Some attributes include predefined values (as specified in Step 14). For attributes without predefined values, type in the information based on your analysis of the data.
 Your completed classification sheet will resemble the example shown below. Note that attribute values may vary depending on your interpretation of the documents.
 
-    <img src="images/NVivo15/17-CaseClassification7.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <a href="images/NVivo15/17-CaseClassification7.png" target="_blank">
+      <img src="images/NVivo15/17-CaseClassification7.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
 18. **Explore patterns using a hierarchy chart.**
 You can now explore your data to identify patterns, differences, and trends across cases.
@@ -152,24 +176,34 @@ To create a hierarchy chart:
 A treemap visualization will appear, showing the distribution of cases by the selected attribute (for example, country of birth). You can add additional attributes by selecting them and clicking the > button.
 As you add more attributes, the treemap will update and group cases accordingly. Take a moment to explore how the visualization changes as different attributes are included. Your results may differ depending on how attributes were assigned.
 
-    <img src="images/NVivo15/18-Explore1.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <a href="images/NVivo15/18-Explore1.png" target="_blank">
+      <img src="images/NVivo15/18-Explore1.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
 19. **Explore the data using a sunburst visualization.**
 To continue exploring your data, select the **Sunburst** visualization option next to the treemap. This provides an alternative view of how cases are distributed across the selected attributes.
 
-    <img src="images/NVivo15/19-Explore2.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <a href="images/NVivo15/19-Explore2.png" target="_blank">
+      <img src="images/NVivo15/19-Explore2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
 20. **Explore the data using a summary visualization.**
 Select the **Summary** visualization option to view an aggregated overview of how cases are distributed across the selected attributes.
 
-    <img src="images/NVivo15/20-Explore3.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <a href="images/NVivo15/20-Explore3.png" target="_blank">
+      <img src="images/NVivo15/20-Explore3.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
 
 21. **Export visualizations.**
 Visualizations created in NVivo can be exported to your computer. Select a visualization, then choose **Export.** From there, select your preferred file format (e.g., PDF, PNG, JPEG).
 
-    <img src="images/NVivo15/21-Explore4.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
-    <img src="images/NVivo15/22-Explore5.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">    
-
+    <a href="images/NVivo15/21-Explore4.png" target="_blank">
+      <img src="images/NVivo15/21-Explore4.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
+    <a href="images/NVivo15/22-Explore5.png" target="_blank">
+      <img src="images/NVivo15/22-Explore5.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
+    
 22. **Compare cases.**
 You can compare attribute values across cases to identify similarities and differences.
 To compare cases:
@@ -177,17 +211,27 @@ To compare cases:
     - b. Choose **Diagrams.**
     - c. Select Compare Cases. When the selection window opens, choose the cases for **Jane Goodall** and **Florence Nightingale**, then click **Select**.
 
-    <img src="images/NVivo15/23-Explore6.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
-    <img src="images/NVivo15/24-Explore7.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
-
+    <a href="images/NVivo15/23-Explore6.png" target="_blank">
+      <img src="images/NVivo15/23-Explore6.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
+    <a href="images/NVivo15/24-Explore7.png" target="_blank">
+      <img src="images/NVivo15/24-Explore7.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    </a>
+    
     Once the comparison diagram is generated, a basic view will appear showing the connection between each case and its associated file. In the right-hand pane, under **Display**, change the option to **Attributes**.
 This view provides a more detailed comparison, displaying attribute values side by side and highlighting similarities and differences between the selected cases, as shown in the example below. 
+
+    <a href="<"images/NVivo15/25-Explore8.png" target="_blank">
     <img src="images/NVivo15/25-Explore8.png" alt="hierarchy chart" style="width:700px; margin-left:10px;">
+    </a>
 
     **Right-click the diagram and select Export** to save it to your computer.
-    <img src="images/NVivo15/26-Explore9.png" alt="hierarchy chart" style="width:400px; margin-left:10px;">
 
-23. **Saving and exporting your project.**
+    <a href="images/NVivo15/26-Explore9.png" target="_blank">
+      <img src="images/NVivo15/26-Explore9.png" alt="hierarchy chart" style="width:400px; margin-left:10px;">
+    </a>
+
+24. **Saving and exporting your project.**
 **Save your project:**
     - a. Go to the **File** menu at the top of the screen.
     - b. Select **Save** to ensure all changes are stored in your project file.
