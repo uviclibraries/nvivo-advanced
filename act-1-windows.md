@@ -42,19 +42,24 @@ Creating folders helps keep your NVivo workspace organized, especially when work
 With the NVivo workspace set up, you can now import files into your project. Download the Word documents provided below and save them to your computer.
     [Link to the documents](https://drive.google.com/drive/folders/1CAhi674fobzj0A9N2TTQ4ifPKHsABDXC?usp=sharing)
 
-    <img src="images/NVivoWindows/6.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+    <img src="images/NVivoWindows/6.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
 9. **Import documents into NVivo.**
 Once the documents are saved on your computer, import them into your NVivo project. This follows the same procedure used in the introductory NVivo workshop.
-Select the **Biographies** folder you just created, then go to the top ribbon and choose **Data > Documents**. When the import window opens, select the files from your computer and click **Import**.
+    To import the files:
+   - a. In the Navigation Pane, select the **Biographies** folder you created under **Files**.
+   - b. Go to the top ribbon and select **Import > Files**.
+   - In the file browser window, locate and select the four documents you downloaded, and click **Open**.
+   - When the import window opens, select the files from your computer and click **Import**.
+     Your documents will now appear in the Biographies folder within NVivo.
 
-    <img src="images/NVivoWindows/7.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
-    <img src="images/NVivoWindows/8.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
-    <img src="images/NVivoWindows/9.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
+    <img src="images/NVivoWindows/7.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    <img src="images/NVivoWindows/8.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    <img src="images/NVivoWindows/9.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
    Cases represent the units of analysis in your research, for example, the people you interviewed, the communities you studied, or the organizations or events you’re analyzing. Creating cases allows you to assign attributes (such as age, country, role, or group) to each one, so that later you can compare themes across participants or contexts.
 
-10. **Create cases from your files.**
+11. **Create cases from your files.**
 With your files imported, the next step is to convert them into cases. This allows you to assign classifications and attributes to each document and begin more detailed analysis.
 There are multiple ways to create cases in NVivo. For this guide, we use a clear and structured approach that supports learning and keeps the NVivo workspace organized.
 
