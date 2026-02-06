@@ -20,20 +20,20 @@ When the program opens, click **New Project.**
 3.	**Set up your project.**
 In the project setup window, enter a project name, choose a save location, and add a description. For this exercise, we recommend naming your project **Biography Analysis.**
    
-    <img src="images/NVivoWindows/2.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
+    <img src="images/NVivoWindows/2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
 4.	**Enter the NVivo workspace.**
 After creating your project, NVivo will open the main project workspace. If you are using a UVic NVivo license, your interface may look like the image below. If you are using a commercial or trial version, the layout may vary slightly.
 
-    <img src="images/NVivoWindows/3.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
+    <img src="images/NVivoWindows/3.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
 5. **Create a folder in Files.**
 In the left navigation pane, right-click **Files** and select **New Folder.**
 
-     <img src="images/NVivoWindows/4.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
+     <img src="images/NVivoWindows/4.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
 6. **Name your folder.**
-Name the folder **Biographies.** You may optionally add a folder description, then click **Done.**
+Name the folder **Biographies.** You may optionally add a folder description, then click **OK.**
 Creating folders helps keep your NVivo workspace organized, especially when working with multiple NVivo project files for the same study.
 
     <img src="images/NVivoWindows/5.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
@@ -42,18 +42,19 @@ Creating folders helps keep your NVivo workspace organized, especially when work
 With the NVivo workspace set up, you can now import files into your project. Download the Word documents provided below and save them to your computer.
     [Link to the documents](https://drive.google.com/drive/folders/1CAhi674fobzj0A9N2TTQ4ifPKHsABDXC?usp=sharing)
 
-8. **Import documents into NVivo.**
+    <img src="images/NVivoWindows/6.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
+
+9. **Import documents into NVivo.**
 Once the documents are saved on your computer, import them into your NVivo project. This follows the same procedure used in the introductory NVivo workshop.
 Select the **Biographies** folder you just created, then go to the top ribbon and choose **Data > Documents**. When the import window opens, select the files from your computer and click **Import**.
 
-    <img src="images/NVivoWindows/6.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/7.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/8.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/9.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
    Cases represent the units of analysis in your research, for example, the people you interviewed, the communities you studied, or the organizations or events you’re analyzing. Creating cases allows you to assign attributes (such as age, country, role, or group) to each one, so that later you can compare themes across participants or contexts.
 
-9. **Create cases from your files.**
+10. **Create cases from your files.**
 With your files imported, the next step is to convert them into cases. This allows you to assign classifications and attributes to each document and begin more detailed analysis.
 There are multiple ways to create cases in NVivo. For this guide, we use a clear and structured approach that supports learning and keeps the NVivo workspace organized.
 
@@ -69,14 +70,14 @@ There are multiple ways to create cases in NVivo. For this guide, we use a clear
     <img src="images/NVivoWindows/10.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
     <img src="images/NVivoWindows/11.png" alt="hierarchy chart" style="width:300px; margin-left:10px;">
 
-10. **View your cases.**
+11. **View your cases.**
 To view your cases, select Cases in the Navigation Pane. Each document has now been converted into an individual case, which you can explore and analyze further.
 
     <img src="images/NVivoWindows/12.png" alt="hierarchy chart" style="width:750px; margin-left:10px;">
 
     A **case classification** is a structured table used to store objective information (attributes) about your cases, such as demographic or contextual details. Classifications allow you to compare cases systematically and support analysis and visualization later in NVivo.
 
-11. **Create a case classification.**
+12. **Create a case classification.**
 With your cases created, the next step is to set up a case classification to record objective information.
    - a. Select **Case Classifications** in the Navigation Pane.
    - b. In the Detail Pane, right-click.
