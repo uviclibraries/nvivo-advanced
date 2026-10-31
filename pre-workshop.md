@@ -10,11 +10,13 @@ This workshop is primarily hands-on practice with NVivo in order to learn to use
     <iframe width="560" height="315" src="https://www.youtube.com/embed/QNjEygXM_bE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - **REQUIRED:** Install NVivo on your computer:
-  - You can download an NVivo trial version by [following this link.](https://lumivero.com/resources/free-trial/nvivo/){:target="_blank"} <br>
- **-OR-** <br>
-  - If you are a UVic graduate student, faculty member, or staff, you can download the software and the license file from **Online Services** (link is provided in the approval email from the UVic Computer Help Desk). Once you receive confirmation of approval for the license, log in to Online Services, download the Mac or Windows version of the software, and retrieve the license file, which contains the license code, from the Online Services website.
-  ![Screenshot of Online Services download page](images/NVivo15/preworkshop.png) <br>
-  After installing NVivo, open the software and choose **“or provide enterprise key to activate”**. Enter the license code from your license file to complete the activation.
-  ![Screenshot of Online Services download page](images/NVivo15/preworkshop2.png) <br>
+  - UVic graduate students, faculty, and staff can access NVivo through the [Online Services Portal](https://onlineservices.uvic.ca/){:target="_blank"}.
+  - To activate NVivo:
+     - In **Online Services,** expand “**NVivo – Status: Active**” under **Your Services**.
+     - Click **Manage.**
+     - Download the NVivo 15 license file. If you have not already installed NVivo 15, download and install the appropriate download link for your device.
+     - Open **NVivo 15**.
+     - If the **Activate NVivo** window appears, select “**or provide enterprise key to activate**.”
+     - Enter the licence key provided in the NVivo 15 licence file.
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
