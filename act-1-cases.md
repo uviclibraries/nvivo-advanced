@@ -7,10 +7,9 @@ parent: Workshop Activities
 
 # Exploring Cases and Case Classifications
 
-1.	Make sure you have downloaded NVivo to your computer. **There is an annual fee of $100 for UVic graduate students, faculty, and staff to use NVivo.** 
-- [Licenses can be purchased here.](https://www.uvic.ca/systems/services/pages/analytics-and-bi.php#ipn-nvivo) 
-- Note that license requests require approval, which may take up to a week to process.
-- Alternatively, you can [download a trial version of the software.](https://lumivero.com/resources/free-trial/nvivo/) The trial is free for fourteen days.
+1.	Make sure you have downloaded NVivo to your computer. **UVic graduate students, faculty, and staff now have access to NVivo through the university-wide site licence.** 
+- You can access NVivo through the [Online Services portal.](https://onlineservices.uvic.ca/) 
+- From Manage Your Services, you can download the software and access the licence information needed to activate NVivo.
 
 2.	**Launch NVivo.**
 When the program opens, click **Create New Project** in the top-right corner to open a new project.
